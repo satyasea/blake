@@ -18,6 +18,7 @@ Profile URLs Shortlist
 + Qwiklabs https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
 + Instagram https://www.instagram.com/barondeburnham
 + AboutMe https://about.me/blakerogers
++ Sailing https://satyasea.blogspot.com/p/blakes-sailor-cv.html
 
 
 Certifications
