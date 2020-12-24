@@ -5,20 +5,20 @@ portfolio
 Blake Rogers 
 ------------
 Hands-on technology leader with 20+ years experience
-
++ email: saltyfog@gmail.com
 
 Profile URLs Shortlist
 -------------------------
-+ Tech https://www.linkedin.com/in/blakerogerz/
++ Tech Profile https://www.linkedin.com/in/blakerogerz/
 + Blog https://wings.medium.com/ 
-+ Code https://github.com/satyasea
++ Code Samples https://github.com/satyasea
 + Angel List https://angel.co/u/blake-rogers
 + Startup Bidhacker http://bidhacker.com (requires signing online NDA)
 + Hacker Rank https://www.hackerrank.com/saltyfog
 + Qwiklabs https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
-+ Instagram https://www.instagram.com/barondeburnham
-+ AboutMe https://about.me/blakerogers
-+ Sailing https://satyasea.blogspot.com/p/blakes-sailor-cv.html
++ Instagram Art & Photography https://www.instagram.com/barondeburnham
++ AboutMe Contact https://about.me/blakerogers
++ Sailing Bio https://satyasea.blogspot.com/p/blakes-sailor-cv.html
 
 
 Certifications
