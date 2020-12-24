@@ -3,15 +3,15 @@ portfolio
 
 Profile URLs Shortlist
 -------------------------
-+ https://www.linkedin.com/in/blakerogerz/
-+ https://about.me/blakerogers
-+ https://wings.medium.com/ 
-+ https://github.com/satyasea
-+ https://angel.co/u/blake-rogers
-+ http://bidhacker.com (requires signing online NDA)
-+ https://www.hackerrank.com/saltyfog
-+ https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
-+ https://www.instagram.com/barondeburnham
++ Tech https://www.linkedin.com/in/blakerogerz/
++ Blog https://wings.medium.com/ 
++ Code https://github.com/satyasea
++ Angel List https://angel.co/u/blake-rogers
++ Startup Bidhacker http://bidhacker.com (requires signing online NDA)
++ Hacker Rank https://www.hackerrank.com/saltyfog
++ Qwiklabs https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
++ Instagram https://www.instagram.com/barondeburnham
++ AboutMe https://about.me/blakerogers
 
 
 Certificates 
