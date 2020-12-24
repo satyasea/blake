@@ -2,9 +2,10 @@
 portfolio
 
 
-Blake Rogers
+Blake Rogers 
 ------------
-I'm a hands-on leader with experience as interim cto at early stage startups, managing a small team and offshore developers.
+Hands-on technology leader with 20+ years experience
+
 
 Profile URLs Shortlist
 -------------------------
