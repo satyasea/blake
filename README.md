@@ -8,7 +8,7 @@ Profile URLs Shortlist
 + https://wings.medium.com/ 
 + https://github.com/satyasea
 + https://angel.co/u/blake-rogers
-+ bidhacker.com (requires signing online NDA)
++ http://bidhacker.com (requires signing online NDA)
 + https://www.hackerrank.com/saltyfog
 + https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
 + https://www.instagram.com/barondeburnham
