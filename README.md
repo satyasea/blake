@@ -14,7 +14,7 @@ Profile URLs Shortlist
 + AboutMe https://about.me/blakerogers
 
 
-Certificates 
+Certifications
 ---------------
 + July 2020 HackerRank Java https://www.hackerrank.com/certificates/0cf012d8d573
 + Feb 2020 Google Cloud Platform Professional Data Engineer (GCP)
@@ -44,17 +44,17 @@ Paid blog articles on THS CTO INSIGHTS https://telegraphhillsoftware.com/insight
 + https://telegraphhillsoftware.com/starting-the-spark/
 
 
-Github projects (code I can share without violating confidentiality):
----------------------------------------------------
-+ Apache Spark training projects https://github.com/satyasea/startspark
-+ Random programming interview "challenge" solutions (algorithms & data-structures) https://github.com/satyasea/challenge
-
-Other Recent Creations
+Recent Creations
 -------------------
 + 2020 SpeedFactor Velocitone Android speedometer for sailboat racing v3 https://lnkd.in/g_XswXR and v1 https://lnkd.in/g22J2H7
 + 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o/edit
 + 2020 Python Programming Cheat Sheet https://lnkd.in/gv-UiTH
 + 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE/edit
+
+Github projects (code I can share without violating confidentiality):
+---------------------------------------------------
++ Apache Spark training projects https://github.com/satyasea/startspark
++ Random programming interview "challenge" solutions (algorithms & data-structures) https://github.com/satyasea/challenge
 
 
 Professional / Continuing Education 
@@ -87,7 +87,7 @@ Online Computer Science and Technology Courses
 + Object People - Object Oriented Programming 
 + Sun Microsystems - Java Programming 
 
-Recent 6 Google Cloud codelabs tutorials
+Google Cloud Firebase/Firestore/Flutter codelabs
 ----------------------------------------
 + Firebase Web Codelab (deployed firebaseapp)
 + Firebase Cloud Functions (deployed firebaseapp)
@@ -95,7 +95,7 @@ Recent 6 Google Cloud codelabs tutorials
 + Flutter / Firestore - BabyNames app (local dart/android dev)
 + Flutter / Firestore (6/30) - Restaurant Recommendations - Multi-platform (web)
 
-Qwiklabs
+Google Cloud Platform Lab Quests
 --------
 Completed below Google Cloud lab quests including 44 labs.
 https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
@@ -107,7 +107,7 @@ https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
 + Google Cloud Essentials
 
 
-Pre-historical links
+Pre-historical Consulting links
 ----------------------------
 + 2004 https://timeline.com/ronald-reagan-astrology-quigley-aa81632662d9
 + 2000 https://www-03.ibm.com/press/us/en/pressrelease/966.wss
@@ -115,4 +115,3 @@ Pre-historical links
 + 1998 https://www.wellsfargohistory.com/averting-a-y2k-crisis-with-years-of-preparation/
 + 1997 http://www.stirlingenergy.com/
 + 1993 https://greenbuildingpages.typepad.com/turning_transparent_in_a_/2009/02/market-case-study-ecotimber.html
-
