@@ -1,6 +1,11 @@
 # blake
 portfolio
 
+
+Blake Rogers
+------------
+I'm a hands-on leader with experience as interim cto at early stage startups, managing a small team and offshore developers.
+
 Profile URLs Shortlist
 -------------------------
 + Tech https://www.linkedin.com/in/blakerogerz/
@@ -46,10 +51,10 @@ Paid blog articles on THS CTO INSIGHTS https://telegraphhillsoftware.com/insight
 
 Recent Creations
 -------------------
-+ 2020 SpeedFactor Velocitone Android speedometer for sailboat racing v3 https://lnkd.in/g_XswXR and v1 https://lnkd.in/g22J2H7
-+ 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o/edit
-+ 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc/edit
-+ 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE/edit
++ 2020 SpeedFactor Velocitone Android speedometer for sailboat racing v3 https://drive.google.com/file/d/12_AGYmWOkE-s9JfLjc1AydBBFCwI76NJ
++ 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o
++ 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc
++ 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
 
 Github projects (code I can share without violating confidentiality):
 ---------------------------------------------------
