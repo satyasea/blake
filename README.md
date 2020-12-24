@@ -9,7 +9,8 @@ Hands-on technology leader with 20+ years experience
 
 Profile URLs Shortlist
 -------------------------
-+ Resume https://docs.google.com/document/d/1RrSBOonSe2Ho-KOqjsu147HTj9LN4AhCC-rYoVBjr48
++ Executive Resume https://docs.google.com/document/d/18PqG5a9j-xRmUgSbALaaewU-1liFZpThk_5nVuvsuBo
++ Detailed Resume https://docs.google.com/document/d/1RrSBOonSe2Ho-KOqjsu147HTj9LN4AhCC-rYoVBjr48
 + Tech Profile https://www.linkedin.com/in/blakerogerz/
 + Blog https://wings.medium.com/ 
 + Code Samples https://github.com/satyasea
