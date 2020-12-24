@@ -67,6 +67,7 @@ Github projects (code I can share without violating confidentiality):
 
 Professional / Continuing Education 
 --------------------
++ Enrolled: Stanford Engineering - Foundations of Data Science certificate
 + Jan 2020 Data Engineering with Google Cloud (Coursera 6-Course Professional Certificate) 
 https://www.coursera.org/account/accomplishments/specialization/certificate/UNS74RDNU7E6
 + Jan 2020 Data Engineering, Big Data, and Machine Learning on GCP (Coursera 5-course Specialization) 
@@ -74,7 +75,9 @@ https://coursera.org/share/62dac15e2ae582452c49d29d31c9a004
 
 Online Computer Science and Technology Courses
 ----------------------------------------------
-+ Stanford Engineering - Google Cloud Foundations of Data Science - Introduction to Python 
++ Stanford Engineering - Foundations of Data Science - Statistics (Enrolled)
++ Stanford Engineering - Foundations of Data Science - R Programming (Enrolled) 
++ Stanford Engineering - Foundations of Data Science - Introduction to Python 
 + Google Cloud on Coursera - Google Cloud Platform Big Data and Machine Learning Fundamentals 
 + Google Cloud on Coursera - Modernizing Data Lakes and Data Warehouses with GCP 
 + Google Cloud on Coursera - Building Batch Data Pipelines on GCP 
