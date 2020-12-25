@@ -1,17 +1,25 @@
 # blake
-portfolio
 
+Blake Rogers
++ Hands-on, strategic, principled, innovative, cross-functional and cross-cultural technology leader
++ Principal Software Engineer, Staff Software Engineer, Lead Software Engineer, Software Engineering Manager, Director, VP, Interim CTO
 
-Blake Rogers 
-------------
-Hands-on technology leader with 20+ years experience
+Personal
+--------
++ Sailor, diver, and open-water swimmer
++ Photographer and artist
++ Member YMCA, Commonwealth Club
+
+Contact
+--------
 + email: saltyfog@gmail.com
 
-Profile URLs Shortlist
+
+Online Profiles
 -------------------------
 + Executive Resume https://docs.google.com/document/d/18PqG5a9j-xRmUgSbALaaewU-1liFZpThk_5nVuvsuBo
 + Detailed Resume https://docs.google.com/document/d/1RrSBOonSe2Ho-KOqjsu147HTj9LN4AhCC-rYoVBjr48
-+ Tech Profile https://www.linkedin.com/in/blakerogerz/
++ Professional Tech Profile https://www.linkedin.com/in/blakerogerz/
 + Blog https://wings.medium.com/ 
 + Code Samples https://github.com/satyasea
 + Angel List https://angel.co/u/blake-rogers
@@ -21,6 +29,14 @@ Profile URLs Shortlist
 + Instagram Art & Photography https://www.instagram.com/barondeburnham
 + AboutMe Contact https://about.me/blakerogers
 + Sailing Bio https://satyasea.blogspot.com/p/blakes-sailor-cv.html
+
+
+Recent Creations
+-------------------
++ 2020 SpeedFactor Velocitone Android speedometer for sailboat racing v3 https://drive.google.com/file/d/12_AGYmWOkE-s9JfLjc1AydBBFCwI76NJ
++ 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o
++ 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc
++ 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
 
 
 Certifications
@@ -37,14 +53,9 @@ https://coursera.org/share/62dac15e2ae582452c49d29d31c9a004
 +2009 PADI SCUBA Divemaster
 
 
-Articles on LinkedIn Pulse
---------------------------
-+ https://www.linkedin.com/pulse/virtual-assistant-avatar-ai-simplified-blake-rogers
-+ https://www.linkedin.com/pulse/onboarding-101-managing-complexity-team-building-blake-rogers/
-+ https://www.linkedin.com/pulse/collaborating-new-machines-blake-rogers/
-
-Paid blog articles on THS CTO INSIGHTS https://telegraphhillsoftware.com/insights/
+Paid blog articles for Telegraph Hill Software CTO Insights
 ----------------------------------------------------------------------------------
++ https://telegraphhillsoftware.com/insights/
 + https://telegraphhillsoftware.com/google-cloud-certification-ace/
 + https://telegraphhillsoftware.com/heroku-migration/ (research/ghostwriter)
 + https://telegraphhillsoftware.com/big-data-distributed-accountability/
@@ -52,13 +63,12 @@ Paid blog articles on THS CTO INSIGHTS https://telegraphhillsoftware.com/insight
 + https://telegraphhillsoftware.com/ten-key-terms-in-distributed-computing/
 + https://telegraphhillsoftware.com/starting-the-spark/
 
+Articles on LinkedIn Pulse
+--------------------------
++ https://www.linkedin.com/pulse/virtual-assistant-avatar-ai-simplified-blake-rogers
++ https://www.linkedin.com/pulse/onboarding-101-managing-complexity-team-building-blake-rogers/
++ https://www.linkedin.com/pulse/collaborating-new-machines-blake-rogers/
 
-Recent Creations
--------------------
-+ 2020 SpeedFactor Velocitone Android speedometer for sailboat racing v3 https://drive.google.com/file/d/12_AGYmWOkE-s9JfLjc1AydBBFCwI76NJ
-+ 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o
-+ 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc
-+ 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
 
 Github projects (code I can share without violating confidentiality):
 ---------------------------------------------------
