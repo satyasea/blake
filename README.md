@@ -1,6 +1,9 @@
 # blake
 
+README Portfolio
+
 Blake Rogers
+------------
 + Role: Technology leader for ethical global impact with fun people
 + Titles: Principal Software Engineer, Staff Software Engineer, Guru, Lead Software Engineer, Software Engineering Manager, Director, VP, Interim CTO
 
@@ -13,13 +16,11 @@ Qualifications
 
 
 Personal
---------
 + Style: San Franciscan, alternative, rock 'n roll, geek, artist, writer, performer, critical thinker, farmer, traveler, vegetarian, cat-lover.
 + Sailor, PADI Divemaster, and open-water swimmer
 + Member YMCA, Commonwealth Club
 
 Contact
---------
 + email: saltyfog@gmail.com
 
 
@@ -61,8 +62,10 @@ https://coursera.org/share/62dac15e2ae582452c49d29d31c9a004
 +2009 PADI SCUBA Divemaster
 
 
+Writing
+--------
+
 Paid blog articles for Telegraph Hill Software CTO Insights
-----------------------------------------------------------------------------------
 + https://telegraphhillsoftware.com/insights/
 + https://telegraphhillsoftware.com/google-cloud-certification-ace/
 + https://telegraphhillsoftware.com/heroku-migration/ (research/ghostwriter)
@@ -72,7 +75,6 @@ Paid blog articles for Telegraph Hill Software CTO Insights
 + https://telegraphhillsoftware.com/starting-the-spark/
 
 Articles on LinkedIn Pulse
---------------------------
 + https://www.linkedin.com/pulse/virtual-assistant-avatar-ai-simplified-blake-rogers
 + https://www.linkedin.com/pulse/onboarding-101-managing-complexity-team-building-blake-rogers/
 + https://www.linkedin.com/pulse/collaborating-new-machines-blake-rogers/
@@ -86,14 +88,15 @@ Github projects (code I can share without violating confidentiality):
 
 Professional / Continuing Education 
 --------------------
+
+Certificate programs and specializations
 + Enrolled: Stanford Engineering - Foundations of Data Science certificate
 + Jan 2020 Data Engineering with Google Cloud (Coursera 6-Course Professional Certificate) 
 https://www.coursera.org/account/accomplishments/specialization/certificate/UNS74RDNU7E6
 + Jan 2020 Data Engineering, Big Data, and Machine Learning on GCP (Coursera 5-course Specialization) 
 https://coursera.org/share/62dac15e2ae582452c49d29d31c9a004
 
-Online Computer Science and Technology Courses
-----------------------------------------------
+Computer Science and Technology Courses
 + Stanford Engineering - Foundations of Data Science - Statistics (Enrolled)
 + Stanford Engineering - Foundations of Data Science - R Programming (Enrolled) 
 + Stanford Engineering - Foundations of Data Science - Introduction to Python 
@@ -117,18 +120,18 @@ Online Computer Science and Technology Courses
 + Object People - Object Oriented Programming 
 + Sun Microsystems - Java Programming 
 
+Code Labs
+----------
+
 Google Cloud Firebase/Firestore/Flutter codelabs
-----------------------------------------
 + Firebase Web Codelab (deployed firebaseapp)
 + Firebase Cloud Functions (deployed firebaseapp)
 + First Flutter part 1 & 2
 + Flutter / Firestore - BabyNames app (local dart/android dev)
 + Flutter / Firestore (6/30) - Restaurant Recommendations - Multi-platform (web)
 
-Google Cloud Platform Lab Quests
---------
-Completed below Google Cloud lab quests including 44 labs.
-https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
+Google Cloud Platform 6 Lab Quests / 44 Labs
++ https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
 + Cloud Healthcare API
 + Security & Identity Fundamentals
 + Scientific Data Processing
