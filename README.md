@@ -80,10 +80,10 @@ Articles on LinkedIn Pulse
 + https://www.linkedin.com/pulse/collaborating-new-machines-blake-rogers/
 
 
-Github projects (code I can share without violating confidentiality):
+Public Github:
 ---------------------------------------------------
 + Apache Spark training projects https://github.com/satyasea/startspark
-+ Random programming interview "challenge" solutions (algorithms & data-structures) https://github.com/satyasea/challenge
++ Programming interview algorithms & data-structure solutions https://github.com/satyasea/challenge
 
 
 Professional / Continuing Education 
