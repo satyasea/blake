@@ -1,15 +1,20 @@
 # blake
 
 Blake Rogers
-+ Hands-on, strategic, principled, innovative, cross-functional and cross-cultural technology leader
-+ Principal Software Engineer, Staff Software Engineer, Lead Software Engineer, Software Engineering Manager, Director, VP, Interim CTO
++ Role: Technology leader for ethical global impact with fun people
++ Titles: Principal Software Engineer, Staff Software Engineer, Guru, Lead Software Engineer, Software Engineering Manager, Director, VP, Interim CTO
+
+Qualifications
++ Languages: Java plus Android, Python, Javascript, PHP, HTML5; Object-oriented, Functional, Parallel, Data-Driven, TDD
++ BA International Business. See technical education below. 
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
-+ Languages: Java plus Android, Python, Javascript, PHP, HTML5
++ Skills: Prototypes and MVPs, LEAN, Agile, Scrum, Intellectual Property, technical writing, creative writing, Fintech, conversational, chatbot, Startup strategy, business/finance, arts, model-driven programming, reverse-engineering, instruction and training, offshore, on-boarding, knowledge transfer, transition management, refactoring and code review, interviewing, mentoring.
+
 
 Personal
 --------
++ Style: San Franciscan, alternative, rock 'n roll, geek, artist, writer, performer, critical thinker, farmer, traveler, vegetarian, cat-lover.
 + Sailor, PADI Divemaster, and open-water swimmer
-+ Photographer and artist
 + Member YMCA, Commonwealth Club
 
 Contact
