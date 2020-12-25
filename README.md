@@ -3,10 +3,12 @@
 Blake Rogers
 + Hands-on, strategic, principled, innovative, cross-functional and cross-cultural technology leader
 + Principal Software Engineer, Staff Software Engineer, Lead Software Engineer, Software Engineering Manager, Director, VP, Interim CTO
++ Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
++ Languages: Java plus Android, Python, Javascript, PHP, HTML5
 
 Personal
 --------
-+ Sailor, diver, and open-water swimmer
++ Sailor, PADI Divemaster, and open-water swimmer
 + Photographer and artist
 + Member YMCA, Commonwealth Club
 
