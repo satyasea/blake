@@ -58,7 +58,7 @@ https://www.credential.net/40bccdf7-7cab-460c-8487-4e2a3db81d82
 https://www.coursera.org/account/accomplishments/specialization/certificate/UNS74RDNU7E6
 + Jan 2020 Data Engineering, Big Data, and Machine Learning on GCP (Coursera 5-course Specialization) 
 https://coursera.org/share/62dac15e2ae582452c49d29d31c9a004
-+2009 PADI SCUBA Divemaster
++ 2009 PADI SCUBA Divemaster
 
 
 Writing
