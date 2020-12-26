@@ -15,7 +15,7 @@ Qualifications
 
 
 Personal
-+ Style: San Franciscan, alternative, rock 'n roll, geek, artist, writer, performer, critical thinker, farmer, traveler, vegetarian, cat-lover.
++ Style: rock 'n roll, geek, artist, writer, critical thinker, nomad, cat-lover.
 + Sailor, PADI Divemaster, and open-water swimmer
 + Member YMCA, Commonwealth Club
 
