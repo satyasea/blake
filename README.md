@@ -8,11 +8,10 @@ Blake Rogers
 + Titles: Principal Software Engineer, Staff Software Engineer, Guru, Lead Software Engineer, Software Engineering Manager, Director, VP, Interim CTO
 
 Qualifications
-+ Experience as Interim CTO/CIO, roles managing or negotiating small team of offshore programmers, entrepreneurial roles, offshore, on-boarding, knowledge transfer, transition management, organizational problem-solving and fixing, due dilligence, architecture, refactoring, interviewing, mentoring.
-+ Languages: Java plus Android, Python, Javascript, PHP, HTML5; Object-oriented, Functional, Parallel, Data-Driven, TDD
++ Experience Interim CTO/CIO, managing small team of offshore programmers, entrepreneurial roles, offshore, on-boarding, knowledge transfer, transition management, organizational problem-solving and fixing, due dilligence, architecture, refactoring, interviewing, mentoring, prototypes and MVPs, LEAN, Agile, Scrum, intellectual property, content, Fintech, conversational, chatbot, Startup strategy, business/finance, arts, model-driven programming, reverse-engineering, mechanical, design, holistic and complex systems, mobile, cloud, enterprise, consulting.
++ Languages: Java plus Android, Python, Javascript, PHP, HTML5; Object-oriented, Functional, Parallel, TDD
 + BA International Business. See technical education below. 
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
-+ Skills: Prototypes and MVPs, LEAN, Agile, Scrum, Intellectual Property, technical writing, creative writing, Fintech, conversational, chatbot, Startup strategy, business/finance, arts, model-driven programming, reverse-engineering, mechanical, design, holistic and complex systems.
 
 
 Personal
