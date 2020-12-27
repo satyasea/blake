@@ -13,11 +13,15 @@ Qualifications
 + BA International Business. See technical education below. 
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
 
-
 Personal
 + Style: rock 'n roll, geek, artist, writer, critical thinker, nomad, cat-lover.
 + Sailor, PADI Divemaster, and open-water swimmer
 + Member YMCA, Commonwealth Club
+
+Recent books 
++ 7 habits of highly successful people
++ The Girl who played with fire
++ Day of the Jackal
 
 Contact
 + email: saltyfog@gmail.com
@@ -45,13 +49,6 @@ Recent Creations
 + 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o
 + 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc
 + 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
-
-
-Recent books 
-------------
-+ 7 habits of highly successful people
-+ The Girl who played with fire
-+ Day of the Jackal
 
 
 New Skills
