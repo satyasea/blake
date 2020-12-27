@@ -47,6 +47,29 @@ Recent Creations
 + 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
 
 
+Recent books 
+------------
++ 7 habits of highly successful people
++ The Girl who played with fire
++ Day of the Jackal
+
+
+New Skills
+-----------
++ Google cloud platform
++ Data engineering
++ Cloud engineering
++ Big data, AI and machine learning
++ Apache spark
++ Python
++ Kubernetes
++ Microservices
++ Firebase
++ Firestore NoSQL
++ Flutter
++ Java Lambda, Functional, Stream, Parallel
+
+
 Certifications
 ---------------
 + July 2020 HackerRank Java https://www.hackerrank.com/certificates/0cf012d8d573
