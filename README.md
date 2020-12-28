@@ -7,6 +7,15 @@ Blake Rogers
 + Role: Technology leader for ethical global impact with fun people
 + Titles: Principal Software Engineer, Staff Software Engineer, Guru, Lead Software Engineer, Software Engineering Manager, Director, VP, Interim CTO
 
+Leadership Experience
++ Wrote blog paid articles for CTO Insights blog, resident expert on GCP certification and training and GCP Data Engineering | Telegraph Hill Software
++ Consulting CTO on startup roadshow | FuturesForSale (no devs)
++ Interim CTO for Crowdfunding startup | FundPaaS /aka QRCrowd (managed 2 devs)
++ Interim CTO/CIO for Smart business assistant startup | Interactive Partners (no devs)
++ Manager, Offshore Developers | Truaxis (2 devs)
++ Liason, Offshore Developers | EClincher (offshore dev shop)
++ Founder, smart marketplace platform prototype | Bidhacker (solo project)
+
 Qualifications
 + Experience Interim CTO/CIO, managing small team of offshore programmers, entrepreneurial roles, offshore, on-boarding, knowledge transfer, transition management, organizational problem-solving and fixing, due dilligence, architecture, refactoring, interviewing, mentoring, prototypes and MVPs, LEAN, Agile, Scrum, intellectual property, content, Fintech, conversational, chatbot, Startup strategy, business/finance, arts, model-driven programming, reverse-engineering, mechanical, design, holistic and complex systems, mobile, cloud, enterprise, consulting.
 + Languages: Java plus Android, Python, Javascript, PHP, HTML5; Object-oriented, Functional, Parallel, TDD
@@ -49,16 +58,6 @@ Recent Creations
 + 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o
 + 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc
 + 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
-
-
-Leadership Experience
-Wrote blog paid articles for CTO Insights blog, resident expert on GCP certification and training and GCP Data Engineering | Telegraph Hill Software
-Consulting CTO on startup roadshow | FuturesForSale (no devs)
-Interim CTO for Crowdfunding startup | FundPaaS /aka QRCrowd (managed 2 devs)
-Interim CTO/CIO for Smart business assistant startup | Interactive Partners (no devs)
-Manager, Offshore Developers | Truaxis (2 devs)
-Liason, Offshore Developers | EClincher (offshore dev shop)
-Founder, smart marketplace platform prototype | Bidhacker (solo project)
 
 
 New Skills
