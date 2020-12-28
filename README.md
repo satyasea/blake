@@ -51,11 +51,21 @@ Recent Creations
 + 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
 
 
+Leadership Experience
+Wrote blog paid articles for CTO Insights blog, resident expert on GCP certification and training and GCP Data Engineering | Telegraph Hill Software
+Consulting CTO on startup roadshow | FuturesForSale (no devs)
+Interim CTO for Crowdfunding startup | FundPaaS /aka QRCrowd (managed 2 devs)
+Interim CTO/CIO for Smart business assistant startup | Interactive Partners (no devs)
+Manager, Offshore Developers | Truaxis (2 devs)
+Liason, Offshore Developers | EClincher (offshore dev shop)
+Founder, smart marketplace platform prototype | Bidhacker (solo project)
+
+
 New Skills
 -----------
 + Google cloud platform
 + Data engineering
-+ Cloud engineering
++ Cloud engineeringF
 + Big data, AI and machine learning
 + Apache spark
 + Python
@@ -65,6 +75,7 @@ New Skills
 + Firestore NoSQL
 + Flutter
 + Java Lambda, Functional, Stream, Parallel
++ Speech
 
 
 Certifications
