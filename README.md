@@ -52,14 +52,6 @@ Online Profiles
 + Sailing Bio https://satyasea.blogspot.com/p/blakes-sailor-cv.html
 
 
-Recent Creations
--------------------
-+ 2020 SpeedFactor Velocitone Android speedometer for sailboat racing v3 https://drive.google.com/file/d/12_AGYmWOkE-s9JfLjc1AydBBFCwI76NJ
-+ 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o
-+ 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc
-+ 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
-
-
 New Skills
 -----------
 + Google cloud platform
@@ -86,8 +78,6 @@ https://www.credential.net/c8640f41-6c36-4c38-b103-64d4e64aa96b?key=106c10e7445f
 https://www.credential.net/40bccdf7-7cab-460c-8487-4e2a3db81d82
 + Jan 2020 Data Engineering with Google Cloud (Coursera 6-Course Professional Certificate)
 https://www.coursera.org/account/accomplishments/specialization/certificate/UNS74RDNU7E6
-+ Jan 2020 Data Engineering, Big Data, and Machine Learning on GCP (Coursera 5-course Specialization) 
-https://coursera.org/share/62dac15e2ae582452c49d29d31c9a004
 + 2009 PADI SCUBA Divemaster
 
 
@@ -108,9 +98,16 @@ Articles on LinkedIn Pulse
 + https://www.linkedin.com/pulse/onboarding-101-managing-complexity-team-building-blake-rogers/
 + https://www.linkedin.com/pulse/collaborating-new-machines-blake-rogers/
 
+Code, models, and expertise
+-------------------
+
+Recent creations
++ 2020 SpeedFactor Velocitone Android speedometer for sailboat racing v3 https://drive.google.com/file/d/12_AGYmWOkE-s9JfLjc1AydBBFCwI76NJ
++ 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o
++ 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc
++ 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
 
 Public Github:
----------------------------------------------------
 + Apache Spark training projects https://github.com/satyasea/startspark
 + Programming interview algorithms & data-structure solutions https://github.com/satyasea/challenge
 
