@@ -96,9 +96,11 @@ Paid blog articles for Telegraph Hill Software CTO Insights
 Articles on LinkedIn Pulse
 + https://www.linkedin.com/pulse/virtual-assistant-avatar-ai-simplified-blake-rogers
 + https://www.linkedin.com/pulse/onboarding-101-managing-complexity-team-building-blake-rogers/
++ https://www.linkedin.com/pulse/reduce-reuse-recycle-managing-complexity-agile-world-blake-rogers/
 + https://www.linkedin.com/pulse/collaborating-new-machines-blake-rogers/
++ https://www.linkedin.com/pulse/maxwells-demon-engine-transactional-facilitation-blake-rogers/
 
-Technical Articles
+Other technical Articles
 + https://wings.medium.com/whiteboarding-algorithms-strategy-and-simplified-time-complexity-eab8ed0fa8f4
 + https://wings.medium.com/tweeting-in-the-stream-2b3ebf10d6e3
 + https://wings.medium.com/vintage-ethereum-testnet-and-wallet-tests-31522e0d6ec4
