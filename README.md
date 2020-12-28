@@ -117,6 +117,10 @@ Recent creations
 + 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o
 + 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc
 + 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
++ 2015 Research report slides - Online Journal https://docs.google.com/presentation/d/1636vAd5SmFATFJHcyAA4iWLjViK4NVfi8fTRuxsk1LQ
++ 2014 Smart Voice Assistant App architecture https://docs.google.com/drawings/d/1QvO6cmqsqf5tlmCoClD30SeFfXG9NyRqrv-rJ5RLCa0
++ 2014 Cloud Timesheet Client architecture https://docs.google.com/drawings/d/1vrHDwnzxId232HlcFV00r-43BAU7QRiaIXZdwWnhHFU
++ 2014 Cloud Timesheet Server architecture https://docs.google.com/drawings/d/1zGPXZaCKatvZAiFRChIsUc8iNRneS-AGiRHk1Q0ATnQ
 
 Public Github:
 + Apache Spark training projects https://github.com/satyasea/startspark
