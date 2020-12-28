@@ -98,7 +98,16 @@ Articles on LinkedIn Pulse
 + https://www.linkedin.com/pulse/onboarding-101-managing-complexity-team-building-blake-rogers/
 + https://www.linkedin.com/pulse/collaborating-new-machines-blake-rogers/
 
-Code, models, and expertise
+Technical Articles
+https://wings.medium.com/whiteboarding-algorithms-strategy-and-simplified-time-complexity-eab8ed0fa8f4
+https://wings.medium.com/tweeting-in-the-stream-2b3ebf10d6e3
+https://wings.medium.com/vintage-ethereum-testnet-and-wallet-tests-31522e0d6ec4
+
+Creative Writing
+https://impartink.storenvy.com/products/25554219-amerarcana-2011
+
+
+Software Exhibits
 -------------------
 
 Recent creations
