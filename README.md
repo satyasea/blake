@@ -8,7 +8,8 @@ Blake Rogers
 + Titles: Principal Software Engineer, Staff Software Engineer, Guru, Lead Software Engineer, Software Engineering Manager, Director, VP, Interim CTO
 
 Leadership Experience
-+ Wrote blog paid articles for CTO Insights blog, resident expert on GCP certification and training and GCP Data Engineering | Telegraph Hill Software
++ Consultant - Wrote original content for CTO Insights blog | Telegraph Hill Software (THS)
++ Principal Engineer - THS expert on GCP certification and training, Apache Spark, GCP Data Engineering | Telegraph Hill Software (new Google Cloud Partner)
 + Consulting CTO on startup roadshow | FuturesForSale (no devs)
 + Interim CTO for Crowdfunding startup | FundPaaS /aka QRCrowd (managed 2 devs)
 + Interim CTO/CIO for Smart business assistant startup | Interactive Partners (no devs)
@@ -26,6 +27,9 @@ Personal
 + Style: rock 'n roll, geek, artist, writer, critical thinker, nomad, cat-lover.
 + Sailor, PADI Divemaster, and open-water swimmer
 + Member YMCA, Commonwealth Club
++ Languages: Spanish (travel); French (2 years study HS); Nepalese (college study) 
++ Int'l living: 6 months in Roatan Honduras for PADI Divemaster, 6 months college Nepal live-abroad immersion study program; summer in St. Croix USVI, 
++ Int'l Travel: Mexico, central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
 
 Recent books 
 + 7 habits of highly successful people
