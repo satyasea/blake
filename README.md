@@ -4,12 +4,9 @@ README Portfolio
 
 Blake Rogers
 ------------
-
-Formal Resumes
---------------
 + Executive Resume https://docs.google.com/document/d/18PqG5a9j-xRmUgSbALaaewU-1liFZpThk_5nVuvsuBo
 + Detailed Resume https://docs.google.com/document/d/1RrSBOonSe2Ho-KOqjsu147HTj9LN4AhCC-rYoVBjr48
-+ Professional Tech Profile https://www.linkedin.com/in/blakerogerz/
++ LinkedIn https://www.linkedin.com/in/blakerogerz/
 
 Summary
 ------------
