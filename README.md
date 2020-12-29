@@ -4,6 +4,15 @@ README Portfolio
 
 Blake Rogers
 ------------
+
+Formal Resumes
+--------------
++ Executive Resume https://docs.google.com/document/d/18PqG5a9j-xRmUgSbALaaewU-1liFZpThk_5nVuvsuBo
++ Detailed Resume https://docs.google.com/document/d/1RrSBOonSe2Ho-KOqjsu147HTj9LN4AhCC-rYoVBjr48
++ Professional Tech Profile https://www.linkedin.com/in/blakerogerz/
+
+Summary
+------------
 + Role: Technology leader for ethical global impact with fun people
 + Titles: Principal Software Engineer, Staff Software Engineer, Guru, Lead Software Engineer, Software Engineering Manager, Director, VP, Interim CTO
 
@@ -42,9 +51,6 @@ Contact
 
 Online Profiles
 -------------------------
-+ Executive Resume https://docs.google.com/document/d/18PqG5a9j-xRmUgSbALaaewU-1liFZpThk_5nVuvsuBo
-+ Detailed Resume https://docs.google.com/document/d/1RrSBOonSe2Ho-KOqjsu147HTj9LN4AhCC-rYoVBjr48
-+ Professional Tech Profile https://www.linkedin.com/in/blakerogerz/
 + Blog https://wings.medium.com/ 
 + Code Samples https://github.com/satyasea
 + Angel List https://angel.co/u/blake-rogers
