@@ -13,6 +13,12 @@ Summary
 + Role: Technology leader for ethical global impact with fun people
 + Titles: Principal Software Engineer, Staff Software Engineer, Guru, Lead Software Engineer, Software Engineering Manager, Director, VP, Interim CTO
 
+Qualifications
++ Experience Interim CTO/CIO, managing small team of offshore programmers, entrepreneurial roles, offshore, on-boarding, knowledge transfer, transition management, organizational problem-solving and fixing, due dilligence, architecture, refactoring, interviewing, mentoring, prototypes and MVPs, LEAN, Agile, Scrum, intellectual property, content, Fintech, conversational, chatbot, Startup strategy, business/finance, arts, model-driven programming, reverse-engineering, mechanical, design, holistic and complex systems, mobile, cloud, enterprise, consulting.
++ Languages: Java plus Android, Python, Javascript, PHP, HTML5; Object-oriented, Functional, Parallel, TDD
++ BA International Business. See technical education below. 
++ Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
+
 Leadership Experience
 + Consultant - Wrote original content for CTO Insights blog | Telegraph Hill Software (THS)
 + Principal Engineer - THS expert on GCP certification and training, Apache Spark, GCP Data Engineering | Telegraph Hill Software (new Google Cloud Partner)
@@ -23,11 +29,16 @@ Leadership Experience
 + Liason, Offshore Developers | EClincher (offshore dev shop)
 + Founder, smart marketplace platform prototype | Bidhacker (solo project)
 
-Qualifications
-+ Experience Interim CTO/CIO, managing small team of offshore programmers, entrepreneurial roles, offshore, on-boarding, knowledge transfer, transition management, organizational problem-solving and fixing, due dilligence, architecture, refactoring, interviewing, mentoring, prototypes and MVPs, LEAN, Agile, Scrum, intellectual property, content, Fintech, conversational, chatbot, Startup strategy, business/finance, arts, model-driven programming, reverse-engineering, mechanical, design, holistic and complex systems, mobile, cloud, enterprise, consulting.
-+ Languages: Java plus Android, Python, Javascript, PHP, HTML5; Object-oriented, Functional, Parallel, TDD
-+ BA International Business. See technical education below. 
-+ Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
+Innovation Experience
++ Upskilled with Python, Cloud Engineering, Google Cloud Platform, Big Data, Data Engineering, Data Science, Machine Learning and AI on GCP
++ Made a new Android smart voice "assistant" and "field service" app for business with cloud timesheet and payroll integration | Interactive Partners
++ Built a new intelligent social marketplace platform prototype | ineeduneed / bidhacker solo startup project
++ Made a user-configurable, profile data-driven AI health-care triage "process advisor" to automate patient outcomes | Stealth Client
++ Created new hybrid cloud web tools system based on google sheets and mysql for game artists and live-game support | Lootdrop
++ Architected gamified data-driven web applications and databases | Eveo
++ Coded a new light web application component framework for trading applications | Charles Schwab
++ Reverse-engineered software for Websphere upgrade due to missing source code | Charles Schwab
++ UX designer for Microbial Disease Laboratory web application | Compete Inc / IBM / CA Dept Health
 
 Personal
 + Style: rock 'n roll, geek, artist, writer, critical thinker, nomad, cat-lover.
