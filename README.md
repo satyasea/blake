@@ -19,7 +19,7 @@ Qualifications
 + BA International Business. See technical education below. 
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
 
-Leadership Experience
+Leadership
 + Consultant - Wrote original content for CTO Insights blog | Telegraph Hill Software (THS)
 + Principal Engineer - THS expert on GCP certification and training, Apache Spark, GCP Data Engineering | Telegraph Hill Software (new Google Cloud Partner)
 + Consulting CTO on startup roadshow | FuturesForSale (no devs)
@@ -29,10 +29,11 @@ Leadership Experience
 + Liason, Offshore Developers | EClincher (offshore dev shop)
 + Founder, smart marketplace platform prototype | Bidhacker (solo project)
 
-Innovation Experience
+Technical Accomplishments
 + Upskilled with Python, Cloud Engineering, Google Cloud Platform, Big Data, Data Engineering, Data Science, Machine Learning and AI on GCP
-+ Made a new Android smart voice "assistant" and "field service" app for business with cloud timesheet and payroll integration | Interactive Partners
-+ Built a new intelligent social marketplace platform prototype | ineeduneed / bidhacker solo startup project
++ Made an Android Sailboat racing app with speed-based audio feedback for a local bay area sailing team. 
++ Created a Nuance-based Android smart voice "assistant" and "field service" app for business with cloud timesheet and payroll integration | Interactive Partners
++ Built a novel intelligent social marketplace platform prototype | ineeduneed / bidhacker solo startup project
 + Made a user-configurable, profile data-driven AI health-care triage "process advisor" to automate patient outcomes | Stealth Client
 + Created new hybrid cloud web tools system based on google sheets and mysql for game artists and live-game support | Lootdrop
 + Architected gamified data-driven web applications and databases | Eveo
@@ -131,7 +132,6 @@ Software Exhibits
 -------------------
 
 Recent creations
-+ 2020 SpeedFactor Velocitone Android speedometer for sailboat racing v3 https://drive.google.com/file/d/12_AGYmWOkE-s9JfLjc1AydBBFCwI76NJ
 + 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o
 + 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc
 + 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
