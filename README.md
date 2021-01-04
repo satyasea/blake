@@ -89,7 +89,7 @@ New Skills
 -----------
 + Google cloud platform
 + Data engineering
-+ Cloud engineeringF
++ Cloud engineering
 + Big data, AI and machine learning
 + Apache spark
 + Python
