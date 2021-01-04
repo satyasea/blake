@@ -37,9 +37,11 @@ Leadership
 + Consulting CTO on startup roadshow | FuturesForSale (no devs)
 + Interim CTO for Crowdfunding startup | FundPaaS /aka QRCrowd (managed 2 devs)
 + Interim CTO/CIO for Smart business assistant startup | Interactive Partners (no devs)
-+ Manager, Offshore Developers | Truaxis (2 devs)
++ Coordinator, Offshore Developers | Truaxis (2 devs)
 + Liason, Offshore Developers | EClincher (offshore dev shop)
 + Founder, smart marketplace platform prototype | Bidhacker (solo project)
++ Lead on reverse-engineering project | Charles Schwab
++ Lead UX on the Microbial Disease lab project (IBM / CA Dept of Health)
 
 Technical Accomplishments
 + Upskilled with Python, Cloud Engineering, Google Cloud Platform, Big Data, Data Engineering, Data Science, Machine Learning and AI on GCP
