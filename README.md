@@ -62,6 +62,7 @@ Personal
 + Languages: Spanish (travel); French (2 years study HS); Nepalese (college study) 
 + Int'l living: 6 months in Roatan Honduras for PADI Divemaster, 6 months college Nepal live-abroad immersion study program; summer in St. Croix USVI, 
 + Int'l Travel: Mexico, central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
++ Diversity, equality, respect. 
 
 Recent books 
 + 7 habits of highly successful people
