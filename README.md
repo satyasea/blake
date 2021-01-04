@@ -13,6 +13,16 @@ Summary
 + Role: Technology leader for ethical global impact with fun people
 + Titles: Principal Software Engineer, Staff Software Engineer, Guru, Lead Software Engineer, Software Engineering Manager, Director, VP, Interim CTO
 
+Specialization: Health avatars, gamification, AI
++ Google Certified Data Engineer, Cloud Health Care Lab Quest (GCP at Telegraph Hill Software)
++ Patient avatar backend for pharmaceutical physician marketing game (Eveo)
++ Patient profile-based web application for patient triage (Opco Health)
++ Smart social marketplace with data-driven negotiation, pricing optimization, custom NLP, and transaction automation (Bidhacker)
++ Voice-based Assistant MVP with Nuance Voice with custom NLP on Android (Interactive Partners)
++ Prototype smart journal with sentiment analysis, Pandorabot chatbots (Stealth co)
++ Game artist tools for game model assets and configuration (Lootdrop)
++ Lead UX on the Microbial Disease lab project (IBM / CA Dept of Health)
+
 Qualifications
 + Experience Interim CTO/CIO, managing small team of offshore programmers, entrepreneurial roles, offshore, on-boarding, knowledge transfer, transition management, organizational problem-solving and fixing, due dilligence, architecture, refactoring, interviewing, mentoring, prototypes and MVPs, LEAN, Agile, Scrum, intellectual property, content, Fintech, conversational, chatbot, Startup strategy, business/finance, arts, model-driven programming, reverse-engineering, mechanical, design, holistic and complex systems, mobile, cloud, enterprise, consulting.
 + Languages: Java plus Android, Python, Javascript, PHP, HTML5; Object-oriented, Functional, Parallel, TDD
