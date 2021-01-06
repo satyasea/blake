@@ -56,13 +56,12 @@ Technical Accomplishments
 + UX designer for Microbial Disease Laboratory web application | Compete Inc / IBM / CA Dept Health
 
 Personal
-+ Style: rock 'n roll, geek, artist, writer, critical thinker, nomad, cat-lover.
 + Sailor, PADI Divemaster, and open-water swimmer
 + Member YMCA, Commonwealth Club
 + Languages: Spanish (travel); French (2 years study HS); Nepalese (college study) 
-+ Int'l living: 6 months in Roatan Honduras for PADI Divemaster, 6 months college Nepal live-abroad immersion study program; summer in St. Croix USVI, 
++ Int'l living: Six months in Roatan Honduras for PADI Divemaster, six months college Nepal live-abroad immersion study program; three months in St. Croix USVI 
 + Int'l Travel: Mexico, central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
-+ Diversity, equality, respect. 
+
 
 Recent books 
 + 7 habits of highly successful people
@@ -91,7 +90,7 @@ New Skills
 + Google cloud platform
 + Data engineering
 + Cloud engineering
-+ Big data, AI and machine learning
++ Big data, AI and machine learning, predictive analytics
 + Apache spark
 + Python
 + Kubernetes
@@ -100,7 +99,8 @@ New Skills
 + Firestore NoSQL
 + Flutter
 + Java Lambda, Functional, Stream, Parallel
-+ Speech
++ Voice/Speech/Audio/Language
++ Transactions, and transaction analysis
 
 
 Certifications
