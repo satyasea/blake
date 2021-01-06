@@ -80,9 +80,6 @@ Online Profiles
 + Startup Bidhacker http://bidhacker.com (requires signing online NDA)
 + Hacker Rank https://www.hackerrank.com/saltyfog
 + Qwiklabs https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
-+ Instagram Art & Photography https://www.instagram.com/barondeburnham
-+ AboutMe Contact https://about.me/blakerogers
-+ Sailing Bio https://satyasea.blogspot.com/p/blakes-sailor-cv.html
 
 
 New Skills
@@ -214,11 +211,3 @@ Google Cloud Platform 6 Lab Quests / 44 Labs
 + Google Cloud Essentials
 
 
-Pre-historical Consulting links
-----------------------------
-+ 2004 https://timeline.com/ronald-reagan-astrology-quigley-aa81632662d9
-+ 2000 https://www-03.ibm.com/press/us/en/pressrelease/966.wss
-+ 1999 https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/mdl.aspx
-+ 1998 https://www.wellsfargohistory.com/averting-a-y2k-crisis-with-years-of-preparation/
-+ 1997 http://www.stirlingenergy.com/
-+ 1993 https://greenbuildingpages.typepad.com/turning_transparent_in_a_/2009/02/market-case-study-ecotimber.html
