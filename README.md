@@ -140,9 +140,9 @@ Recent creations
 + 2014 Cloud Timesheet Client architecture https://docs.google.com/drawings/d/1vrHDwnzxId232HlcFV00r-43BAU7QRiaIXZdwWnhHFU
 + 2014 Cloud Timesheet Server architecture https://docs.google.com/drawings/d/1zGPXZaCKatvZAiFRChIsUc8iNRneS-AGiRHk1Q0ATnQ
 
-Public Github:
+Github:
 + Apache Spark training projects https://github.com/satyasea/startspark
-+ Programming interview algorithms & data-structure solutions https://github.com/satyasea/challenge
++ Data-structure & Algorithm interview challenges https://github.com/satyasea/challenge
 
 
 Professional / Continuing Education 
@@ -179,8 +179,9 @@ Computer Science and Technology Courses
 + Object People - Object Oriented Programming 
 + Sun Microsystems - Java Programming 
 
-Code Labs Google Cloud Platform 6 Lab Quests / 44 Labs
-@ https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
+Code Labs
+--------
+Google Cloud Platform 6 Lab Quests / 44 Labs
 + Cloud Healthcare API
 + Security & Identity Fundamentals
 + Scientific Data Processing
