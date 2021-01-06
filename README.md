@@ -10,13 +10,27 @@ Blake Rogers
 
 Summary
 ------------
-+ Role: Technology leader for ethical global impact with fun people
-+ Titles: Principal Software Engineer, Staff Software Engineer, Guru, Lead Software Engineer, Software Engineering Manager, Director, VP, Interim CTO
++ Technology leader for ethical global impact with fun people
++ Principal, Staff, Lead, Manager, Director, VP, Interim CTO
++ Languages: Java plus Android, Python, Javascript, PHP, HTML5; Object-oriented, Functional, Parallel, TDD
++ BA International Business, Nepalese Language and Culture, extensive independent studies in Computer Science, Cloud and Big Data (see below)
++ Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
 
-Specialization: data-driven, patient avatars, healthcare, games, AI
+New Skills
+-----------
++ Google Cloud Platform (GCP) engineering, administration, servers, networking, security, identity, etc.
++ GCP Data engineering, Apache Spark API, Python programming
++ Big data, AI and machine learning, predictive analytics
++ GCP Databases, data warehousing and datalake storage, Kubernetes, Microservices, Firebase, Firestore NoSQL, and Flutter
++ Lambda, Functional, Stream, Parallel
++ Voice/Speech/Audio/Language
++ Fintech/regtech - crowdfunding, investors, KYC, compliance
++ Transactions and transaction analysis
+
+Specialized expertise: data-driven, patient avatars, healthcare, games, AI
 + Google Certified Data Engineer (Big Data, Machine Learning, AI), Cloud Health Care Lab Quest (GCP at Telegraph Hill Software)
 + Patient avatar backend for pharmaceutical physician marketing game (Eveo)
-+ Patient profile-based web application for patient triage (Opco Health)
++ Patient profile-based healthcare web application for patient triage (Opco Health)
 + Smart social marketplace with data-driven negotiation, pricing optimization, custom NLP, and transaction automation (Bidhacker)
 + Voice-based Assistant MVP with Nuance Voice with custom NLP on Android (Interactive Partners)
 + Prototype smart journal with sentiment analysis, Pandorabot chatbots (Stealth co)
@@ -24,12 +38,6 @@ Specialization: data-driven, patient avatars, healthcare, games, AI
 + Translated game logic from Objective-C to Android for game port
 + Reused Connect-4 game AI from legacy Swing app for Android app, and created multi-player mode.
 + Lead UX on the Microbial Disease lab project (IBM / CA Dept of Health)
-
-Qualifications
-+ Experience Interim CTO/CIO, managing small team of offshore programmers, entrepreneurial roles, offshore, on-boarding, knowledge transfer, transition management, organizational problem-solving and fixing, due dilligence, architecture, refactoring, interviewing, mentoring, prototypes and MVPs, LEAN, Agile, Scrum, intellectual property, content, Fintech, conversational, chatbot, Startup strategy, business/finance, arts, model-driven programming, reverse-engineering, mechanical, design, holistic and complex systems, mobile, cloud, enterprise, consulting.
-+ Languages: Java plus Android, Python, Javascript, PHP, HTML5; Object-oriented, Functional, Parallel, TDD
-+ BA International Business. See technical education below. 
-+ Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
 
 Leadership
 + Consultant - Wrote original content for CTO Insights blog, obtained certification for THS move to Google Cloud Partner program | Telegraph Hill Software (THS)
@@ -54,6 +62,7 @@ Technical Accomplishments
 + Coded a new light web application component framework for trading applications | Charles Schwab
 + Reverse-engineered software for Websphere upgrade due to missing source code | Charles Schwab
 + UX designer for Microbial Disease Laboratory web application | Compete Inc / IBM / CA Dept Health
+
 
 Personal
 + Sailor, PADI Divemaster, and open-water swimmer
@@ -80,18 +89,6 @@ Online Profiles
 + Startup Bidhacker http://bidhacker.com (requires signing online NDA)
 + Hacker Rank https://www.hackerrank.com/saltyfog
 + Qwiklabs https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
-
-
-New Skills
------------
-+ Google Cloud Platform (GCP)
-+ GCP Data engineering, Apache Spark API, Python programming
-+ Big data, AI and machine learning, predictive analytics
-+ GCP Cloud engineering, Kubernetes, Microservices, Firebase, Firestore NoSQL, and Flutter
-+ Java Lambda, Functional, Stream, Parallel
-+ Voice/Speech/Audio/Language
-+ Fintech/regtech - crowdfunding, investors, KYC, compliance
-+ Transactions and transaction analysis
 
 
 Certifications
@@ -129,9 +126,6 @@ Other technical Articles
 + https://wings.medium.com/whiteboarding-algorithms-strategy-and-simplified-time-complexity-eab8ed0fa8f4
 + https://wings.medium.com/tweeting-in-the-stream-2b3ebf10d6e3
 + https://wings.medium.com/vintage-ethereum-testnet-and-wallet-tests-31522e0d6ec4
-
-Creative Writing
-+ https://impartink.storenvy.com/products/25554219-amerarcana-2011
 
 
 Software Exhibits
@@ -185,23 +179,15 @@ Computer Science and Technology Courses
 + Object People - Object Oriented Programming 
 + Sun Microsystems - Java Programming 
 
-Code Labs
-----------
-
-Google Cloud Firebase/Firestore/Flutter codelabs
-+ Firebase Web Codelab (deployed firebaseapp)
-+ Firebase Cloud Functions (deployed firebaseapp)
-+ First Flutter part 1 & 2
-+ Flutter / Firestore - BabyNames app (local dart/android dev)
-+ Flutter / Firestore (6/30) - Restaurant Recommendations - Multi-platform (web)
-
-Google Cloud Platform 6 Lab Quests / 44 Labs
-+ https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
+Code Labs Google Cloud Platform 6 Lab Quests / 44 Labs
+@ https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
 + Cloud Healthcare API
 + Security & Identity Fundamentals
 + Scientific Data Processing
 + Baseline: Data, ML, AI
 + Data Engineering
 + Google Cloud Essentials
+
+
 
 
