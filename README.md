@@ -32,7 +32,7 @@ Qualifications
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
 
 Leadership
-+ Consultant - Wrote original content for CTO Insights blog | Telegraph Hill Software (THS)
++ Consultant - Wrote original content for CTO Insights blog, obtained certification for THS move to Google Cloud Partner program | Telegraph Hill Software (THS)
 + Principal Engineer - THS expert on GCP certification and training, Apache Spark, GCP Data Engineering | Telegraph Hill Software (new Google Cloud Partner)
 + Consulting CTO on startup roadshow | FuturesForSale (no devs)
 + Interim CTO for Crowdfunding startup | FundPaaS /aka QRCrowd (managed 2 devs)
@@ -84,20 +84,14 @@ Online Profiles
 
 New Skills
 -----------
-+ Google cloud platform
-+ Data engineering
-+ Cloud engineering
++ Google Cloud Platform (GCP)
++ GCP Data engineering, Apache Spark API, Python programming
 + Big data, AI and machine learning, predictive analytics
-+ Apache spark
-+ Python
-+ Kubernetes
-+ Microservices
-+ Firebase
-+ Firestore NoSQL
-+ Flutter
++ GCP Cloud engineering, Kubernetes, Microservices, Firebase, Firestore NoSQL, and Flutter
 + Java Lambda, Functional, Stream, Parallel
 + Voice/Speech/Audio/Language
-+ Transactions, and transaction analysis
++ Fintech/regtech - crowdfunding, investors, KYC, compliance
++ Transactions and transaction analysis
 
 
 Certifications
