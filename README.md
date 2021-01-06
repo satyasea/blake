@@ -17,7 +17,6 @@ Summary
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
 
 New Skills
------------
 + Google Cloud Platform (GCP) engineering, administration, servers, networking, security, identity, etc.
 + GCP Data engineering, Apache Spark API, Python programming
 + Big data, AI and machine learning, predictive analytics
