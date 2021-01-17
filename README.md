@@ -64,7 +64,7 @@ Technical Accomplishments
 
 
 Personal
-+ Sailor, PADI Divemaster, and open-water swimmer
++ Sailor, PADI Divemaster, open-water swimmer, photographer/artist, singer-songwriter/guitar player
 + Member YMCA, Commonwealth Club
 + Languages: Spanish (travel); French (2 years study HS); Nepalese (college study) 
 + Int'l living: Six months in Roatan Honduras for PADI Divemaster, six months college Nepal live-abroad immersion study program; three months in St. Croix USVI 
@@ -88,6 +88,7 @@ Online Profiles
 + Startup Bidhacker http://bidhacker.com (requires signing online NDA)
 + Hacker Rank https://www.hackerrank.com/saltyfog
 + Qwiklabs https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
++ Instagram https://www.instagram.com/barondeburnham/
 
 
 Certifications
