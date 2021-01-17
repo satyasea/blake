@@ -17,28 +17,6 @@ Summary
 + Professional Certificate in Big Data, AI and Machine Learning (Google Cloud on Coursera)
 + Cloud Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
 
-New Skills
-+ Google Cloud Platform (GCP) engineering, administration, servers, networking, security, identity, etc.
-+ GCP Data engineering, Apache Spark API, Python programming
-+ Big data, AI and machine learning, predictive analytics
-+ GCP Databases, data warehousing and datalake storage, Kubernetes, Microservices, Firebase, Firestore NoSQL, and Flutter
-+ Lambda, Functional, Stream, Parallel
-+ Voice/Speech/Audio/Language
-+ Fintech/regtech - crowdfunding, investors, KYC, compliance
-+ Transactions and transaction analysis
-
-Specialized expertise: data-driven, patient avatars, healthcare, games, AI
-+ Google Certified Data Engineer (Big Data, Machine Learning, AI), Cloud Health Care Lab Quest (GCP at Telegraph Hill Software)
-+ Patient avatar backend for pharmaceutical physician marketing game (Eveo)
-+ Patient profile-based healthcare web application for patient triage (Opco Health)
-+ Smart social marketplace with data-driven negotiation, pricing optimization, custom NLP, and transaction automation (Bidhacker)
-+ Voice-based Assistant MVP with Nuance Voice with custom NLP on Android (Interactive Partners)
-+ Prototype smart journal with sentiment analysis, Pandorabot chatbots (Stealth co)
-+ Game artist tools for game model assets and configuration (Lootdrop)
-+ Translated game logic from Objective-C to Android for game port
-+ Reused Connect-4 game AI from legacy Swing app for Android app, and created multi-player mode.
-+ Lead UX on the Microbial Disease lab project (IBM / CA Dept of Health)
-
 Leadership
 + Consultant - Wrote original content for CTO Insights blog, obtained certification for THS move to Google Cloud Partner program | Telegraph Hill Software (THS)
 + Principal Engineer - THS expert on GCP certification and training, Apache Spark, GCP Data Engineering | Telegraph Hill Software (new Google Cloud Partner)
@@ -57,6 +35,18 @@ Leadership
 + Crew Leader, Summer Youth Conservation Corps
 + Assistant Manager, video store
 
+Specialized expertise: data-driven, patient avatars, healthcare, games, AI
++ Google Certified Data Engineer (Big Data, Machine Learning, AI), Cloud Health Care Lab Quest (GCP at Telegraph Hill Software)
++ Patient avatar backend for pharmaceutical physician marketing game (Eveo)
++ Patient profile-based healthcare web application for patient triage (Opco Health)
++ Smart social marketplace with data-driven negotiation, pricing optimization, custom NLP, and transaction automation (Bidhacker)
++ Voice-based Assistant MVP with Nuance Voice with custom NLP on Android (Interactive Partners)
++ Prototype smart journal with sentiment analysis, Pandorabot chatbots (Stealth co)
++ Game artist tools for game model assets and configuration (Lootdrop)
++ Translated game logic from Objective-C to Android for game port
++ Reused Connect-4 game AI from legacy Swing app for Android app, and created multi-player mode.
++ Lead UX on the Microbial Disease lab project (IBM / CA Dept of Health)
+
 Technical Accomplishments
 + Upskilled with Python, Cloud Engineering, Google Cloud Platform, Big Data, Data Engineering, Data Science, Machine Learning and AI on GCP
 + Made an Android Sailboat racing app with speed-based audio feedback for a local bay area sailing team. 
@@ -69,6 +59,15 @@ Technical Accomplishments
 + Reverse-engineered software for Websphere upgrade due to missing source code | Charles Schwab
 + UX designer for Microbial Disease Laboratory web application | Compete Inc / IBM / CA Dept Health
 
+New Skills
++ Google Cloud Platform (GCP) engineering, administration, servers, networking, security, identity, etc.
++ GCP Data engineering, Apache Spark API, Python programming
++ Big data, AI and machine learning, predictive analytics
++ GCP Databases, data warehousing and datalake storage, Kubernetes, Microservices, Firebase, Firestore NoSQL, and Flutter
++ Lambda, Functional, Stream, Parallel
++ Voice/Speech/Audio/Language
++ Fintech/regtech - crowdfunding, investors, KYC, compliance
++ Transactions and transaction analysis
 
 Personal
 + Vegan, Sailor, PADI Divemaster, open-water swimmer, photographer/artist, singer-songwriter/guitar player
@@ -76,7 +75,6 @@ Personal
 + Languages: English, Spanish (semi-fluent); French (2 years H.S./rusty); Nepalese (college degree/rusty) 
 + Int'l living: Six months in Roatan Honduras for PADI Divemaster, six months college Nepal live-abroad immersion study program; three months in St. Croix USVI 
 + Int'l Travel: Mexico, central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
-
 
 Recent books 
 + 7 habits of highly successful people
