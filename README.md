@@ -13,8 +13,9 @@ Summary
 + Technology leader for ethical global impact with fun people
 + Principal, Staff, Lead, Manager, Director, VP, Interim CTO
 + Languages: Java plus Android, Python, Javascript, PHP, HTML5; Object-oriented, Functional, Parallel, TDD
-+ BA International Business, Nepalese Language and Culture, extensive independent studies in Computer Science, Cloud and Big Data (see below)
-+ Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
++ BA International Business, Nepalese Language and Culture
++ Professional Certificate in Big Data, AI and Machine Learning (Google Cloud on Coursera)
++ Cloud Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
 
 New Skills
 + Google Cloud Platform (GCP) engineering, administration, servers, networking, security, identity, etc.
@@ -49,6 +50,12 @@ Leadership
 + Founder, smart marketplace platform prototype | Bidhacker (solo project)
 + Lead on reverse-engineering project | Charles Schwab
 + Lead UX on the Microbial Disease lab project (IBM / CA Dept of Health)
++ Entrepreneur, computerization consultant
++ Business plan writer, Global Environmental Solutions Corp
++ Assistant Controller, Foghorn Press
++ Manager Trainee, Bed & Bath Superstore
++ Crew Leader, Summer Youth Conservation Corps
++ Assistant Manager, video store
 
 Technical Accomplishments
 + Upskilled with Python, Cloud Engineering, Google Cloud Platform, Big Data, Data Engineering, Data Science, Machine Learning and AI on GCP
