@@ -64,9 +64,9 @@ Technical Accomplishments
 
 
 Personal
-+ Sailor, PADI Divemaster, open-water swimmer, photographer/artist, singer-songwriter/guitar player
++ Vegan, Sailor, PADI Divemaster, open-water swimmer, photographer/artist, singer-songwriter/guitar player
 + Member YMCA, Commonwealth Club
-+ Languages: Spanish (travel); French (2 years study HS); Nepalese (college study) 
++ Languages: English, Spanish (semi-fluent); French (2 years H.S./rusty); Nepalese (college degree/rusty) 
 + Int'l living: Six months in Roatan Honduras for PADI Divemaster, six months college Nepal live-abroad immersion study program; three months in St. Croix USVI 
 + Int'l Travel: Mexico, central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
 
