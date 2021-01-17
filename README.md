@@ -14,7 +14,8 @@ Summary
 + Principal, Staff, Lead, Manager, Director, VP, Interim CTO
 + Languages: Java plus Android, Python, Javascript, PHP, HTML5; Object-oriented, Functional, Parallel, TDD
 + BA International Business, Nepalese Language and Culture
-+ Professional Certificate in Big Data, AI and Machine Learning (Google Cloud on Coursera)
++ Professional Certificate: Foundations For Data Science (Stanford /Enrolled)
++ Professional Certificate: Data Engineering with Google Cloud (Google Cloud)
 + Cloud Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
 
 Leadership
