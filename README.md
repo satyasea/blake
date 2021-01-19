@@ -70,13 +70,13 @@ New Skills
 + Fintech/regtech - crowdfunding, investors, KYC, compliance
 + Transactions and transaction analysis
 
-Personal
+Personal ⛵
 + Vegan, Sailor, PADI Divemaster, open-water swimmer, photographer/artist/musician
 + Member YMCA, Commonwealth Club
 + Languages: English, Spanish (semi-fluent); French (2 years H.S./rusty); Nepalese (college degree/rusty) 
 + Int'l living: Six months in Roatan Honduras for PADI Divemaster, six months college Nepal live-abroad immersion study program; three months in St. Croix USVI 
 + Int'l Travel: Mexico, central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
-+ ✊🏿🌈⛵
+
 
 Recent books 
 + 7 habits of highly successful people
