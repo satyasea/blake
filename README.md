@@ -152,7 +152,8 @@ Github:
 + Data-structure & Algorithm interview challenges https://github.com/satyasea/challenge
 
 
-Professional / Continuing Education 
+Post-bachaloreat Computer Science Education
++ Educational Focus: Cloud, Data Engineering, Big Data, Machine Learning, Complex Systems, GCP
 --------------------
 
 Certificate programs and specializations
