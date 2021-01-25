@@ -12,11 +12,15 @@ Summary
 ------------
 + Technology leader for ethical global impact with fun people
 + Principal, Staff, Lead, Manager, Director, VP, Interim CTO
++ Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer (Google Cloud Platform)
 + Languages: Java plus Android, Python, Javascript, PHP, HTML5; Object-oriented, Functional, Parallel, TDD
+
+Education
 + BA International Business, Nepalese Language and Culture
 + Professional Certificate: Foundations For Data Science (Stanford /Enrolled)
-+ Professional Certificate: Data Engineering with Google Cloud (Google Cloud)
-+ Cloud Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer
++ Professional Certificate: Data Engineering with Google Cloud (Google Cloud on Coursera)
++ Specialization Program: Data Engineering, Big Data, and Machine Learning on GCP (Google Cloud on Coursera)
+
 
 Leadership
 + Consultant - Wrote original content for CTO Insights blog, obtained certification for THS move to Google Cloud Partner program | Telegraph Hill Software (THS)
@@ -153,8 +157,8 @@ Github:
 
 
 Post-bachaloreat Computer Science Education
+-------------------------------------------
 + Educational Focus: Cloud, Data Engineering, Big Data, Machine Learning, Complex Systems, GCP
---------------------
 
 Certificate programs and specializations
 + Enrolled: Stanford Engineering - Foundations of Data Science certificate
