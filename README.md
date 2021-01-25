@@ -92,8 +92,7 @@ Recent books
 Contact
 + email: saltyfog@gmail.com
 
-
-Post-bachaloreat Computer Science Education
+Computer Science Education
 -------------------------------------------
 + Educational Focus: Cloud, Data Engineering, Big Data, Machine Learning, Complex Systems, GCP
 
