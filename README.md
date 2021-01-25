@@ -91,71 +91,6 @@ Contact
 + email: saltyfog@gmail.com
 
 
-Online Profiles
--------------------------
-+ Blog https://wings.medium.com/ 
-+ Code Samples https://github.com/satyasea
-+ Angel List https://angel.co/u/blake-rogers
-+ Startup Bidhacker http://bidhacker.com (requires signing online NDA)
-+ Hacker Rank https://www.hackerrank.com/saltyfog
-+ Qwiklabs https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
-+ Instagram https://www.instagram.com/barondeburnham/
-
-
-Certifications
----------------
-+ July 2020 HackerRank Java https://www.hackerrank.com/certificates/0cf012d8d573
-+ Feb 2020 Google Cloud Platform Professional Data Engineer (GCP)
-https://www.credential.net/c8640f41-6c36-4c38-b103-64d4e64aa96b?key=106c10e7445f7d279086a803ebabf8269b113a1f271c8dbcfd2e058c40fe5913
-+ Nov 2019 Google Cloud Platform Associate Cloud Engineer (GCP)
-https://www.credential.net/40bccdf7-7cab-460c-8487-4e2a3db81d82
-+ Jan 2020 Data Engineering with Google Cloud (Coursera 6-Course Professional Certificate)
-https://www.coursera.org/account/accomplishments/specialization/certificate/UNS74RDNU7E6
-+ 2009 PADI SCUBA Divemaster
-
-
-Writing
---------
-
-Paid blog articles for Telegraph Hill Software CTO Insights
-+ https://telegraphhillsoftware.com/insights/
-+ https://telegraphhillsoftware.com/google-cloud-certification-ace/
-+ https://telegraphhillsoftware.com/heroku-migration/ (research/ghostwriter)
-+ https://telegraphhillsoftware.com/big-data-distributed-accountability/
-+ https://telegraphhillsoftware.com/big-data-no-ticket/
-+ https://telegraphhillsoftware.com/ten-key-terms-in-distributed-computing/
-+ https://telegraphhillsoftware.com/starting-the-spark/
-
-Articles on LinkedIn Pulse
-+ https://www.linkedin.com/pulse/virtual-assistant-avatar-ai-simplified-blake-rogers
-+ https://www.linkedin.com/pulse/onboarding-101-managing-complexity-team-building-blake-rogers/
-+ https://www.linkedin.com/pulse/reduce-reuse-recycle-managing-complexity-agile-world-blake-rogers/
-+ https://www.linkedin.com/pulse/collaborating-new-machines-blake-rogers/
-+ https://www.linkedin.com/pulse/maxwells-demon-engine-transactional-facilitation-blake-rogers/
-
-Other technical Articles
-+ https://wings.medium.com/whiteboarding-algorithms-strategy-and-simplified-time-complexity-eab8ed0fa8f4
-+ https://wings.medium.com/tweeting-in-the-stream-2b3ebf10d6e3
-+ https://wings.medium.com/vintage-ethereum-testnet-and-wallet-tests-31522e0d6ec4
-
-
-Software Exhibits
--------------------
-
-Recent creations
-+ 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o
-+ 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc
-+ 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
-+ 2015 Research report slides - Online Journal https://docs.google.com/presentation/d/1636vAd5SmFATFJHcyAA4iWLjViK4NVfi8fTRuxsk1LQ
-+ 2014 Smart Voice Assistant App architecture https://docs.google.com/drawings/d/1QvO6cmqsqf5tlmCoClD30SeFfXG9NyRqrv-rJ5RLCa0
-+ 2014 Cloud Timesheet Client architecture https://docs.google.com/drawings/d/1vrHDwnzxId232HlcFV00r-43BAU7QRiaIXZdwWnhHFU
-+ 2014 Cloud Timesheet Server architecture https://docs.google.com/drawings/d/1zGPXZaCKatvZAiFRChIsUc8iNRneS-AGiRHk1Q0ATnQ
-
-Github:
-+ Apache Spark training projects https://github.com/satyasea/startspark
-+ Data-structure & Algorithm interview challenges https://github.com/satyasea/challenge
-
-
 Post-bachaloreat Computer Science Education
 -------------------------------------------
 + Educational Focus: Cloud, Data Engineering, Big Data, Machine Learning, Complex Systems, GCP
@@ -202,5 +137,66 @@ Google Cloud Platform 6 Lab Quests / 44 Labs
 + Google Cloud Essentials
 
 
+Online Profiles
+-------------------------
++ Blog https://wings.medium.com/ 
++ Code Samples https://github.com/satyasea
++ Angel List https://angel.co/u/blake-rogers
++ Startup Bidhacker http://bidhacker.com (requires signing online NDA)
++ Hacker Rank https://www.hackerrank.com/saltyfog
++ Qwiklabs https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
++ Instagram https://www.instagram.com/barondeburnham/
 
+
+Writing
+--------
+
+Paid blog articles for Telegraph Hill Software CTO Insights
++ https://telegraphhillsoftware.com/insights/
++ https://telegraphhillsoftware.com/google-cloud-certification-ace/
++ https://telegraphhillsoftware.com/heroku-migration/ (research/ghostwriter)
++ https://telegraphhillsoftware.com/big-data-distributed-accountability/
++ https://telegraphhillsoftware.com/big-data-no-ticket/
++ https://telegraphhillsoftware.com/ten-key-terms-in-distributed-computing/
++ https://telegraphhillsoftware.com/starting-the-spark/
+
+Articles on LinkedIn Pulse
++ https://www.linkedin.com/pulse/virtual-assistant-avatar-ai-simplified-blake-rogers
++ https://www.linkedin.com/pulse/onboarding-101-managing-complexity-team-building-blake-rogers/
++ https://www.linkedin.com/pulse/reduce-reuse-recycle-managing-complexity-agile-world-blake-rogers/
++ https://www.linkedin.com/pulse/collaborating-new-machines-blake-rogers/
++ https://www.linkedin.com/pulse/maxwells-demon-engine-transactional-facilitation-blake-rogers/
+
+Other technical Articles
++ https://wings.medium.com/whiteboarding-algorithms-strategy-and-simplified-time-complexity-eab8ed0fa8f4
++ https://wings.medium.com/tweeting-in-the-stream-2b3ebf10d6e3
++ https://wings.medium.com/vintage-ethereum-testnet-and-wallet-tests-31522e0d6ec4
+
+
+Software Exhibits
+-------------------
+
+Recent creations
++ 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o
++ 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc
++ 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
++ 2015 Research report slides - Online Journal https://docs.google.com/presentation/d/1636vAd5SmFATFJHcyAA4iWLjViK4NVfi8fTRuxsk1LQ
++ 2014 Smart Voice Assistant App architecture https://docs.google.com/drawings/d/1QvO6cmqsqf5tlmCoClD30SeFfXG9NyRqrv-rJ5RLCa0
++ 2014 Cloud Timesheet Client architecture https://docs.google.com/drawings/d/1vrHDwnzxId232HlcFV00r-43BAU7QRiaIXZdwWnhHFU
++ 2014 Cloud Timesheet Server architecture https://docs.google.com/drawings/d/1zGPXZaCKatvZAiFRChIsUc8iNRneS-AGiRHk1Q0ATnQ
+
+Github:
++ Apache Spark training projects https://github.com/satyasea/startspark
++ Data-structure & Algorithm interview challenges https://github.com/satyasea/challenge
+
+Certifications
+---------------
++ July 2020 HackerRank Java https://www.hackerrank.com/certificates/0cf012d8d573
++ Feb 2020 Google Cloud Platform Professional Data Engineer (GCP)
+https://www.credential.net/c8640f41-6c36-4c38-b103-64d4e64aa96b?key=106c10e7445f7d279086a803ebabf8269b113a1f271c8dbcfd2e058c40fe5913
++ Nov 2019 Google Cloud Platform Associate Cloud Engineer (GCP)
+https://www.credential.net/40bccdf7-7cab-460c-8487-4e2a3db81d82
++ Jan 2020 Data Engineering with Google Cloud (Coursera 6-Course Professional Certificate)
+https://www.coursera.org/account/accomplishments/specialization/certificate/UNS74RDNU7E6
++ 2009 PADI SCUBA Divemaster
 
