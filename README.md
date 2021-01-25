@@ -64,13 +64,15 @@ Technical Accomplishments
 + Reverse-engineered software for Websphere upgrade due to missing source code | Charles Schwab
 + UX designer for Microbial Disease Laboratory web application | Compete Inc / IBM / CA Dept Health
 
-New Skills
+New skills from Education
 + Google Cloud Platform (GCP) engineering, administration, servers, networking, security, identity, etc.
 + GCP Data engineering, Apache Spark API, Python programming
-+ Big data, AI and machine learning, predictive analytics
++ Big data, AI and machine learning, predictive analytics on GCP
 + GCP Databases, data warehousing and datalake storage, Kubernetes, Microservices, Firebase, Firestore NoSQL, and Flutter
-+ Lambda, Functional, Stream, Parallel
-+ Voice/Speech/Audio/Language
++ Java and Python Lambda, Functional, Stream, Parallel
+
+New Skills from Experience
++ Voice/Speech/Audio/Language/NLP
 + Fintech/regtech - crowdfunding, investors, KYC, compliance
 + Transactions and transaction analysis
 
