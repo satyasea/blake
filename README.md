@@ -40,9 +40,8 @@ Leadership
 + Assistant Controller, Foghorn Press
 + Manager Trainee, Bed & Bath Superstore
 + Crew Leader, Summer Youth Conservation Corps
-+ Self-employed landscaper and mechanic
-+ Assistant Manager, video store
-+ Paperboy of the month
+
+
 
 Specialized expertise: data-driven, patient avatars, healthcare, games, AI
 + Google Certified Data Engineer (Big Data, Machine Learning, AI), Cloud Health Care Lab Quest (GCP at Telegraph Hill Software)
