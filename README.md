@@ -137,17 +137,6 @@ Google Cloud Platform 6 Lab Quests / 44 Labs
 + Google Cloud Essentials
 
 
-Online Profiles
--------------------------
-+ Blog https://wings.medium.com/ 
-+ Code Samples https://github.com/satyasea
-+ Angel List https://angel.co/u/blake-rogers
-+ Startup Bidhacker http://bidhacker.com (requires signing online NDA)
-+ Hacker Rank https://www.hackerrank.com/saltyfog
-+ Qwiklabs https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
-+ Instagram https://www.instagram.com/barondeburnham/
-
-
 Writing
 --------
 
@@ -199,4 +188,14 @@ https://www.credential.net/40bccdf7-7cab-460c-8487-4e2a3db81d82
 + Jan 2020 Data Engineering with Google Cloud (Coursera 6-Course Professional Certificate)
 https://www.coursera.org/account/accomplishments/specialization/certificate/UNS74RDNU7E6
 + 2009 PADI SCUBA Divemaster
+
+Online Profiles
+-------------------------
++ Blog https://wings.medium.com/ 
++ Code Samples https://github.com/satyasea
++ Angel List https://angel.co/u/blake-rogers
++ Startup Bidhacker http://bidhacker.com (requires signing online NDA)
++ Hacker Rank https://www.hackerrank.com/saltyfog
++ Qwiklabs https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
++ Instagram https://www.instagram.com/barondeburnham/
 
