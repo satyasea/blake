@@ -31,14 +31,18 @@ Leadership
 + Coordinator, Offshore Developers | Truaxis (2 devs)
 + Liason, Offshore Developers | EClincher (offshore dev shop)
 + Founder, smart marketplace platform prototype | Bidhacker (solo project)
++ Due dilligence on startup acquisition | PowerAssure
 + Lead on reverse-engineering project | Charles Schwab
-+ Lead UX on the Microbial Disease lab project (IBM / CA Dept of Health)
-+ Entrepreneur, computerization consultant
++ Lead UX on the Microbial Disease lab project | Compete Inc/IBM / CA Dept of Health
++ Entrepreneur, self-employed computerization consultant
++ Developed disaster recovery plan | Wells Fargo group finance
 + Business plan writer, Global Environmental Solutions Corp
 + Assistant Controller, Foghorn Press
 + Manager Trainee, Bed & Bath Superstore
 + Crew Leader, Summer Youth Conservation Corps
++ Self-employed landscaper and mechanic
 + Assistant Manager, video store
++ Paperboy of the month
 
 Specialized expertise: data-driven, patient avatars, healthcare, games, AI
 + Google Certified Data Engineer (Big Data, Machine Learning, AI), Cloud Health Care Lab Quest (GCP at Telegraph Hill Software)
