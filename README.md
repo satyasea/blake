@@ -11,6 +11,7 @@ Blake Rogers
 Summary
 ------------
 + Technology leader for ethical global impact with fun people
++ Cross-functional, multi-cultural, pro-diversity, pro-gender equality
 + Principal, Staff, Lead, Manager, Director, VP, Interim CTO
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer (Google Cloud Platform)
 + Languages: Java plus Android, Python, Javascript, PHP, HTML5; Object-oriented, Functional, Parallel, TDD
