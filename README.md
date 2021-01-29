@@ -18,7 +18,7 @@ Summary
 
 Education
 + BA International Business, Nepalese Language and Culture
-+ Professional Certificate: Foundations For Data Science (Stanford /Enrolled)
++ Professional Certificate: Foundations For Data Science (Stanford)
 + Professional Certificate: Data Engineering with Google Cloud (Google Cloud on Coursera)
 + Specialization Program: Data Engineering, Big Data, and Machine Learning on GCP (Google Cloud on Coursera)
 
@@ -41,8 +41,6 @@ Leadership
 + Assistant Controller, Foghorn Press
 + Manager Trainee, Bed & Bath Superstore
 + Crew Leader, Summer Youth Conservation Corps
-
-
 
 Specialized expertise: data-driven, patient avatars, healthcare, games, AI
 + Google Certified Data Engineer (Big Data, Machine Learning, AI), Cloud Health Care Lab Quest (GCP at Telegraph Hill Software)
@@ -101,15 +99,15 @@ Computer Science Education
 + Educational Focus: Cloud, Data Engineering, Big Data, Machine Learning, Complex Systems, GCP
 
 Certificate programs and specializations
-+ Enrolled: Stanford Engineering - Foundations of Data Science certificate
-+ Jan 2020 Data Engineering with Google Cloud (Coursera 6-Course Professional Certificate) 
++ Stanford Engineering - Foundations of Data Science certificate Jan 2021
++ Data Engineering with Google Cloud (Coursera 6-Course Professional Certificate) Jan 2020
 https://www.coursera.org/account/accomplishments/specialization/certificate/UNS74RDNU7E6
-+ Jan 2020 Data Engineering, Big Data, and Machine Learning on GCP (Coursera 5-course Specialization) 
++ Jan 2020 Data Engineering, Big Data, and Machine Learning on GCP (Coursera 5-course Specialization) Jan 2020
 https://coursera.org/share/62dac15e2ae582452c49d29d31c9a004
 
 Computer Science and Technology Courses
-+ Stanford Engineering - Foundations of Data Science - Statistics (Enrolled)
-+ Stanford Engineering - Foundations of Data Science - R Programming (Enrolled) 
++ Stanford Engineering - Foundations of Data Science - Statistics
++ Stanford Engineering - Foundations of Data Science - R Programming 
 + Stanford Engineering - Foundations of Data Science - Introduction to Python 
 + Google Cloud on Coursera - Google Cloud Platform Big Data and Machine Learning Fundamentals 
 + Google Cloud on Coursera - Modernizing Data Lakes and Data Warehouses with GCP 
