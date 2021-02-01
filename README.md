@@ -5,7 +5,7 @@ README Portfolio
 Blake Rogers
 ------------
 + Executive Resume https://docs.google.com/document/d/18PqG5a9j-xRmUgSbALaaewU-1liFZpThk_5nVuvsuBo
-+ Detailed Resume https://docs.google.com/document/d/1RrSBOonSe2Ho-KOqjsu147HTj9LN4AhCC-rYoVBjr48
++ Detailed Resume https://docs.google.com/document/d/1gqm22t3NKzfI4o2e2IbNSUsESSDUg0xzZpgpym64uXQ/edit?usp=sharing
 + LinkedIn https://www.linkedin.com/in/blakerogerz/
 
 Summary
@@ -16,7 +16,7 @@ Summary
 + Languages: Java + Android, PHP, JS, HTML5, Python, R
 
 Education
-+ BA International Management, Nepalese Language and Culture (World College West)
++ BA International Management, minor Nepali (World College West)
 + Professional Certificate: Foundations For Data Science (Stanford University)
 + Professional Certificate: Data Engineering with Google Cloud ( Coursera)
 + Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
