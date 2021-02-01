@@ -33,7 +33,6 @@ Leadership
 + Founder, smart marketplace platform prototype | Bidhacker (solo project)
 + Due dilligence on startup acquisition | PowerAssure
 + Lead on reverse-engineering project | Charles Schwab
-+ Lead UX on the Microbial Disease lab project | Compete Inc/IBM / CA Dept of Health
 
 Specialized expertise: data-driven, patient avatars, healthcare, games, AI
 + Patient avatar backend for pharmaceutical physician marketing game (Eveo)
@@ -44,7 +43,7 @@ Specialized expertise: data-driven, patient avatars, healthcare, games, AI
 + Game artist tools for game model assets and configuration (Lootdrop)
 + Translated game logic from Objective-C to Android for game port
 + Reused Connect-4 game AI from legacy Swing app for Android app, and created multi-player mode.
-+ Lead UX on the Microbial Disease lab project (IBM / CA Dept of Health)
++ Lead UX designer for Microbial Disease Laboratory web application | Compete Inc / IBM / CA Dept Health
 
 Technical Accomplishments
 + Upskilled with Python, Cloud Engineering, Google Cloud Platform, Big Data, Data Engineering, Data Science, Machine Learning and AI on GCP
@@ -56,7 +55,6 @@ Technical Accomplishments
 + Architected gamified data-driven web applications and databases | Eveo
 + Coded a new light web application component framework for trading applications | Charles Schwab
 + Reverse-engineered software for Websphere upgrade due to missing source code | Charles Schwab
-+ UX designer for Microbial Disease Laboratory web application | Compete Inc / IBM / CA Dept Health
 
 New skills from Education
 + Google Cloud Platform (GCP) engineering, administration, servers, networking, security, identity, etc.
