@@ -44,6 +44,9 @@ Leadership
 
 Specialized expertise: data-driven, patient avatars, healthcare, games, AI
 + Google Certified Data Engineer (Big Data, Machine Learning, AI), Cloud Health Care Lab Quest (GCP at Telegraph Hill Software)
++ Professional Certificate: Foundations For Data Science (Stanford)
++ Professional Certificate: Data Engineering with Google Cloud (Google Cloud on Coursera)
++ Specialization Program: Data Engineering, Big Data, and Machine Learning on GCP (Google Cloud on Coursera)
 + Patient avatar backend for pharmaceutical physician marketing game (Eveo)
 + Patient profile-based healthcare web application for patient triage (Opco Health)
 + Smart social marketplace with data-driven negotiation, pricing optimization, custom NLP, and transaction automation (Bidhacker)
@@ -53,6 +56,7 @@ Specialized expertise: data-driven, patient avatars, healthcare, games, AI
 + Translated game logic from Objective-C to Android for game port
 + Reused Connect-4 game AI from legacy Swing app for Android app, and created multi-player mode.
 + Lead UX on the Microbial Disease lab project (IBM / CA Dept of Health)
+
 
 Technical Accomplishments
 + Upskilled with Python, Cloud Engineering, Google Cloud Platform, Big Data, Data Engineering, Data Science, Machine Learning and AI on GCP
@@ -99,16 +103,16 @@ Computer Science Education
 + Educational Focus: Cloud, Data Engineering, Big Data, Machine Learning, Complex Systems, GCP
 
 Certificate programs and specializations
-+ Stanford Engineering - Foundations of Data Science certificate Jan 2021
++ Foundations for Data Science (Stanford 3-course professional certificate) Jan 2021
 + Data Engineering with Google Cloud (Coursera 6-Course Professional Certificate) Jan 2020
 https://www.coursera.org/account/accomplishments/specialization/certificate/UNS74RDNU7E6
 + Jan 2020 Data Engineering, Big Data, and Machine Learning on GCP (Coursera 5-course Specialization) Jan 2020
 https://coursera.org/share/62dac15e2ae582452c49d29d31c9a004
 
 Computer Science and Technology Courses
-+ Stanford Engineering - Foundations of Data Science - Statistics
-+ Stanford Engineering - Foundations of Data Science - R Programming 
-+ Stanford Engineering - Foundations of Data Science - Introduction to Python 
++ Stanford - Foundations for Data Science - Statistics
++ Stanford - Foundations for Data Science - R Programming 
++ Stanford - Foundations for Data Science - Introduction to Python 
 + Google Cloud on Coursera - Google Cloud Platform Big Data and Machine Learning Fundamentals 
 + Google Cloud on Coursera - Modernizing Data Lakes and Data Warehouses with GCP 
 + Google Cloud on Coursera - Building Batch Data Pipelines on GCP 
