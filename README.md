@@ -36,13 +36,13 @@ Leadership
 Specialized expertise: data-driven, patient avatars, healthcare, games, AI
 + Patient avatar backend for pharmaceutical physician marketing game (Eveo)
 + Patient profile-based healthcare web application for patient triage (Opco Health)
-+ Smart social marketplace with data-driven negotiation, pricing optimization, custom NLP, and transaction automation (Bidhacker)
-+ Voice-based Assistant MVP with Nuance Voice with custom NLP on Android (Interactive Partners)
-+ Prototype smart journal with sentiment analysis, Pandorabot chatbots (Stealth co)
-+ Game artist tools for game model assets and configuration (Lootdrop)
++ Data-driven negotiation, pricing optimization, NLP, and automation (Bidhacker)
++ Voice-based android AI Assistant MVP with NLP and cloud (Interactive Partners)
++ Prototype sentiment analysis, Pandorabot chatbots (Stealth)
++ Created hybrid cloud tools for game artists and live-game support | Lootdrop
 + Translated game logic from Objective-C to Android for game port
-+ Reused Connect-4 game AI from legacy Swing app for Android app, and created multi-player mode.
-+ Lead UX designer for Microbial Disease Laboratory web application | Compete Inc / IBM / CA Dept Health
++ Reused Connect-4 game AI for Android app, created multiplayer mode.
++ Lead UX designer for Microbial Disease Lab | Compete / IBM / Dept Health
 
 Technical Accomplishments
 + Upskilled with Python, Cloud Engineering, Google Cloud Platform, Big Data, Data Engineering, Data Science, Machine Learning and AI on GCP
@@ -55,17 +55,17 @@ Technical Accomplishments
 + Coded a new light web application component framework for trading applications | Charles Schwab
 + Reverse-engineered software for Websphere upgrade due to missing source code | Charles Schwab
 
-New skills from Education
-+ Google Cloud Platform (GCP) engineering, administration, servers, networking, security, identity, etc.
-+ GCP Data engineering, Apache Spark API, Python programming, data science foundations
+Technology UpSkill
++ Google Cloud Platform (GCP) administration, networking, security
++ GCP Data engineering, Apache Spark API, Python, data science
 + Big data, AI and machine learning, predictive analytics on GCP
-+ GCP Databases, data warehousing and datalake storage, Kubernetes, Microservices, Firebase, Firestore NoSQL, and Flutter
++ GCP Data tools, data lake storage, GKE, Kubernetes, Microservices
 + Java and Python Lambda, Functional, Stream, Parallel
-
-New Skills from Experience
 + Voice/Speech/Audio/Language/NLP
-+ Fintech/regtech - crowdfunding, investors, KYC, compliance
-+ Transactions and transaction analysis
++ Fintech/regtech - crowdfunding, investors, KYC, compliance, transaction analysis
+
+Technology Experience
++ Java, J2EE, Servlet, JSP, MVC, TDD, OO, PHP, Javascript, AJAX, HTML5, Ajax, jQuery, JSON, MySQL, Apache Spark, Linux, Android, Nuance Voice, Github, Maven, Ant, Jira, GoogleDocs, LinkedIn API, Twitter API, GoogleDocs API, Google Location API, GPS, Linux, Git, Spring, Hibernate
 
 Personal ⛵
 + Sailor, PADI Divemaster, open-water swimmer, photographer
