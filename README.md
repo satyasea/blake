@@ -130,6 +130,7 @@ Google Cloud Platform 6 Lab Quests / 44 Labs
 
 Writing
 --------
+Distributed computing and user experience, technical strategy, onboarding, knowledge transfer, scaling offshore teams, IP assessment, patent, disaster response, web server administration, OLAP data warehouse administration. 
 
 Paid blog articles for Telegraph Hill Software CTO Insights
 + https://telegraphhillsoftware.com/insights/
