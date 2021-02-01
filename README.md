@@ -65,7 +65,7 @@ Technology UpSkill
 + Fintech/regtech - crowdfunding, investors, KYC, compliance, transaction analysis
 
 Technology Experience
-+ Java, J2EE, Servlet, JSP, MVC, TDD, OO, PHP, Javascript, AJAX, HTML5, Ajax, jQuery, JSON, MySQL, Apache Spark, Linux, Android, Nuance Voice, Github, Maven, Ant, Jira, GoogleDocs, LinkedIn API, Twitter API, GoogleDocs API, Google Location API, GPS, Linux, Git, Spring, Hibernate
++ Java, J2EE, Servlet, JSP, MVC, TDD, OO, PHP, Javascript, AJAX, HTML5, Ajax, jQuery, JSON, MySQL, Apache Spark, Linux, Android, Nuance Voice, Github, Maven, Ant, Jira, LinkedIn API, Twitter API, GoogleDocs API, Google Location API, GPS, Linux, Git, Spring, Hibernate
 
 Personal ⛵
 + Sailor, PADI Divemaster, open-water swimmer, photographer
