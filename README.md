@@ -10,28 +10,27 @@ Blake Rogers
 
 Summary
 ------------
-+ Technology leader for ethical global impact with fun people
-+ Cross-functional, multi-cultural, pro-diversity, pro-gender equality
 + Principal, Staff, Lead, Manager, Director, VP, Interim CTO
++ Specialized expertise: Data-driven, patient avatars, healthcare, games, AI
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer (Google Cloud Platform)
-+ Languages: Java plus Android, Python, Javascript, PHP, HTML5; Object-oriented, Functional, Parallel, TDD
++ Languages: Java + Android, PHP, JS, HTML5, Python, R
 
 Education
-+ BA International Business, Nepalese Language and Culture
++ BA International Management, Nepalese Language and Culture (World College West)
 + Professional Certificate: Foundations For Data Science (Stanford University)
-+ Professional Certificate: Data Engineering with Google Cloud (Google Cloud on Coursera)
-+ Specialization Program: Data Engineering, Big Data, and Machine Learning on GCP (Google Cloud on Coursera)
++ Professional Certificate: Data Engineering with Google Cloud ( Coursera)
++ Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
 
 Leadership
-+ Consultant - Wrote original content for CTO Insights blog, obtained certification for THS move to Google Cloud Partner program | Telegraph Hill Software (THS)
-+ Principal Engineer - THS expert on GCP certification and training, Apache Spark, GCP Data Engineering | Telegraph Hill Software (new Google Cloud Partner)
++ Thought leadership - Wrote articles for CTO Insights | Telegraph Hill Software (THS)
++ Principal Engineer - professional services staff / GCP certified consultant | THS
 + Consulting CTO on startup roadshow | FuturesForSale (no devs)
 + Interim CTO for Crowdfunding startup | FundPaaS /aka QRCrowd (managed 2 devs)
 + Interim CTO/CIO for Smart business assistant startup | Interactive Partners (no devs)
 + Coordinator, Offshore Developers | Truaxis (2 devs)
-+ Liason, Offshore Developers | EClincher (offshore dev shop)
++ Liaison, Offshore Developers | EClincher (offshore dev shop)
 + Founder, smart marketplace platform prototype | Bidhacker (solo project)
-+ Due dilligence on startup acquisition | PowerAssure
++ Due diligence on startup acquisition | PowerAssure
 + Lead on reverse-engineering project | Charles Schwab
 
 Specialized expertise: data-driven, patient avatars, healthcare, games, AI
