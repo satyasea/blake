@@ -22,7 +22,6 @@ Education
 + Professional Certificate: Data Engineering with Google Cloud (Google Cloud on Coursera)
 + Specialization Program: Data Engineering, Big Data, and Machine Learning on GCP (Google Cloud on Coursera)
 
-
 Leadership
 + Consultant - Wrote original content for CTO Insights blog, obtained certification for THS move to Google Cloud Partner program | Telegraph Hill Software (THS)
 + Principal Engineer - THS expert on GCP certification and training, Apache Spark, GCP Data Engineering | Telegraph Hill Software (new Google Cloud Partner)
@@ -35,12 +34,6 @@ Leadership
 + Due dilligence on startup acquisition | PowerAssure
 + Lead on reverse-engineering project | Charles Schwab
 + Lead UX on the Microbial Disease lab project | Compete Inc/IBM / CA Dept of Health
-+ Entrepreneur, self-employed computerization consultant
-+ Developed disaster recovery plan | Wells Fargo group finance
-+ Business plan writer, Global Environmental Solutions Corp
-+ Assistant Controller, Foghorn Press
-+ Manager Trainee, Bed & Bath Superstore
-+ Crew Leader, Summer Youth Conservation Corps
 
 Specialized expertise: data-driven, patient avatars, healthcare, games, AI
 + Patient avatar backend for pharmaceutical physician marketing game (Eveo)
@@ -52,7 +45,6 @@ Specialized expertise: data-driven, patient avatars, healthcare, games, AI
 + Translated game logic from Objective-C to Android for game port
 + Reused Connect-4 game AI from legacy Swing app for Android app, and created multi-player mode.
 + Lead UX on the Microbial Disease lab project (IBM / CA Dept of Health)
-
 
 Technical Accomplishments
 + Upskilled with Python, Cloud Engineering, Google Cloud Platform, Big Data, Data Engineering, Data Science, Machine Learning and AI on GCP
@@ -84,7 +76,6 @@ Personal ⛵
 + Languages: English, conversational Spanish; previously some French and Nepali
 + Int'l Travel: Mexico, central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
 
-
 Recent books 
 + 7 habits of highly successful people
 + The Girl who played with fire
@@ -92,6 +83,7 @@ Recent books
 
 Contact
 + email: saltyfog@gmail.com
+
 
 Computer Science Education
 -------------------------------------------
