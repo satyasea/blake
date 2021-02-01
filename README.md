@@ -18,7 +18,7 @@ Summary
 
 Education
 + BA International Business, Nepalese Language and Culture
-+ Professional Certificate: Foundations For Data Science (Stanford)
++ Professional Certificate: Foundations For Data Science (Stanford University)
 + Professional Certificate: Data Engineering with Google Cloud (Google Cloud on Coursera)
 + Specialization Program: Data Engineering, Big Data, and Machine Learning on GCP (Google Cloud on Coursera)
 
@@ -43,10 +43,6 @@ Leadership
 + Crew Leader, Summer Youth Conservation Corps
 
 Specialized expertise: data-driven, patient avatars, healthcare, games, AI
-+ Google Certified Data Engineer (Big Data, Machine Learning, AI), Cloud Health Care Lab Quest (GCP at Telegraph Hill Software)
-+ Professional Certificate: Foundations For Data Science (Stanford)
-+ Professional Certificate: Data Engineering with Google Cloud (Google Cloud on Coursera)
-+ Specialization Program: Data Engineering, Big Data, and Machine Learning on GCP (Google Cloud on Coursera)
 + Patient avatar backend for pharmaceutical physician marketing game (Eveo)
 + Patient profile-based healthcare web application for patient triage (Opco Health)
 + Smart social marketplace with data-driven negotiation, pricing optimization, custom NLP, and transaction automation (Bidhacker)
@@ -72,7 +68,7 @@ Technical Accomplishments
 
 New skills from Education
 + Google Cloud Platform (GCP) engineering, administration, servers, networking, security, identity, etc.
-+ GCP Data engineering, Apache Spark API, Python programming
++ GCP Data engineering, Apache Spark API, Python programming, data science foundations
 + Big data, AI and machine learning, predictive analytics on GCP
 + GCP Databases, data warehousing and datalake storage, Kubernetes, Microservices, Firebase, Firestore NoSQL, and Flutter
 + Java and Python Lambda, Functional, Stream, Parallel
@@ -187,7 +183,8 @@ Github:
 
 Certifications
 ---------------
-+ July 2020 HackerRank Java https://www.hackerrank.com/certificates/0cf012d8d573
++ Jan 2021 Stanford, professional Certificate - Foundations for Data Science
++ July 2020 HackerRank Java skills https://www.hackerrank.com/certificates/0cf012d8d573
 + Feb 2020 Google Cloud Platform Professional Data Engineer (GCP)
 https://www.credential.net/c8640f41-6c36-4c38-b103-64d4e64aa96b?key=106c10e7445f7d279086a803ebabf8269b113a1f271c8dbcfd2e058c40fe5913
 + Nov 2019 Google Cloud Platform Associate Cloud Engineer (GCP)
