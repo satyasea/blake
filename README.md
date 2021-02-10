@@ -5,7 +5,7 @@ README Portfolio
 Blake Rogers
 ------------
 + Executive Resume https://docs.google.com/document/d/18PqG5a9j-xRmUgSbALaaewU-1liFZpThk_5nVuvsuBo
-+ Detailed Resume https://docs.google.com/document/d/1gqm22t3NKzfI4o2e2IbNSUsESSDUg0xzZpgpym64uXQ/edit?usp=sharing
++ Detailed Resume https://docs.google.com/document/d/1gqm22t3NKzfI4o2e2IbNSUsESSDUg0xzZpgpym64uXQ
 + LinkedIn https://www.linkedin.com/in/blakerogerz/
 
 Summary
