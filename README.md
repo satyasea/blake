@@ -149,6 +149,7 @@ Articles on LinkedIn Pulse
 + https://www.linkedin.com/pulse/maxwells-demon-engine-transactional-facilitation-blake-rogers/
 
 Other technical Articles
++ https://wings.medium.com/a-hybrid-model-for-diy-collaborative-customer-engagement-bc58bcb5b31e?sk=05831e5beb2bf76df06ff7966721e0c9
 + https://wings.medium.com/whiteboarding-algorithms-strategy-and-simplified-time-complexity-eab8ed0fa8f4
 + https://wings.medium.com/tweeting-in-the-stream-2b3ebf10d6e3
 + https://wings.medium.com/vintage-ethereum-testnet-and-wallet-tests-31522e0d6ec4
