@@ -22,6 +22,7 @@ Education
 + Professional Certificate: Foundations For Data Science (Stanford University)
 + Professional Certificate: Data Engineering with Google Cloud ( Coursera)
 + Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
++ Art and Dance studies, San Francisco City College
 + BA International Management, minor Nepali (World College West)
 
 Upskill in Distributed Computing, Cloud and Big Data
@@ -70,7 +71,7 @@ Specialized expertise: data-driven, patient avatars, healthcare, games, AI, Comp
 + Lead UX designer for Microbial Disease Lab | Compete / IBM / Dept Health
 
 Personal ⛵
-+ Sailor, PADI Divemaster, open-water swimmer, photographer
++ Sailor, PADI Divemaster, open-water swimmer, photographer, once studied hang-gliding
 + Member YMCA, Commonwealth Club
 + Languages: English, conversational Spanish; previously some French and Nepali
 + Int'l Travel: Mexico, central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
