@@ -4,42 +4,45 @@ Blake Rogers
 -----------
 Entrepreneurial Architect & Principal Software Engineer
 ------------
-+ Detailed Resume https://docs.google.com/document/d/1gqm22t3NKzfI4o2e2IbNSUsESSDUg0xzZpgpym64uXQ
++ Resume https://docs.google.com/document/d/1gqm22t3NKzfI4o2e2IbNSUsESSDUg0xzZpgpym64uXQ
 + LinkedIn https://www.linkedin.com/in/blakerogerz/
+
+Contact
++ saltyfog@gmail.com
++ 415-955-7047
 
 Summary
 ------------
 + Specialized expertise: Data-driven, patient avatars, healthcare, games, AI
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer (Google Cloud Platform)
-+ Languages: Java + Android, PHP, JS, HTML5, Python, R
++ Languages: Java + Android, PHP, JS, HTML5, Python
 
 Education
-+ BA International Management, minor Nepali (World College West)
 + Professional Certificate: Foundations For Data Science (Stanford University)
 + Professional Certificate: Data Engineering with Google Cloud ( Coursera)
 + Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
++ BA International Management, minor Nepali (World College West)
 
-Specialized expertise: data-driven, patient avatars, healthcare, games, AI
-+ Patient avatar backend for pharmaceutical physician marketing game (Eveo)
-+ Patient profile-based healthcare web application for patient triage (Opco Health)
-+ Data-driven negotiation, pricing optimization, NLP, and automation (Bidhacker)
-+ Voice-based android AI Assistant MVP with NLP and cloud (Interactive Partners)
-+ Prototype sentiment analysis, Pandorabot chatbots (Stealth)
-+ Created hybrid cloud tools for game artists and live-game support | Lootdrop
-+ Translated game logic from Objective-C to Android for game port
-+ Reused Connect-4 game AI for Android app, created multiplayer mode.
-+ Lead UX designer for Microbial Disease Lab | Compete / IBM / Dept Health
+Upskill in Distributed Computing, Cloud and Big Data
++ Google Cloud Platform (GCP) administration, networking, security
++ GCP Data engineering, Apache Spark API, Python, data science
++ Big data, AI and machine learning, predictive analytics on GCP
++ GCP Data tools, data lake storage, GKE, Kubernetes, Microservices
++ Java and Python Lambda, Functional, Stream, Parallel
+
+Technology Experience
++ Java, J2EE, Servlet, JSP, MVC, TDD, OO, PHP, Javascript, AJAX, HTML5, Ajax, jQuery, JSON, MySQL, Apache Spark, Linux, Android, Nuance Voice, Github, Maven, Ant, Jira, LinkedIn API, Twitter API, GoogleDocs API, Google Location API, GPS, Linux, Git, Spring, Hibernate
 
 Technical Accomplishments
-+ Upskilled with Python, Cloud Engineering, Google Cloud Platform, Big Data, Data Engineering, Data Science, Machine Learning and AI on GCP
-+ Made an Android Sailboat racing app with speed-based audio feedback for a local bay area sailing team. 
-+ Created a Nuance-based Android smart voice "assistant" and "field service" app for business with cloud timesheet and payroll integration | Interactive Partners
-+ Built a novel intelligent social marketplace platform prototype | ineeduneed / bidhacker solo startup project
-+ Made a user-configurable, profile data-driven AI health-care triage "process advisor" to automate patient outcomes | Stealth Client
-+ Created new hybrid cloud web tools system based on google sheets and mysql for game artists and live-game support | Lootdrop
-+ Architected gamified data-driven web applications and databases | Eveo
-+ Coded a new light web application component framework for trading applications | Charles Schwab
-+ Reverse-engineered software for Websphere upgrade due to missing source code | Charles Schwab
++ Cloud & Data: Upskilled with Python, Cloud Engineering, Google Cloud Platform, Big Data, Data Engineering, Data Science, Machine Learning and AI on GCP
++ Mobile: Made an Android Sailboat racing app with speed-based audio feedback for a local bay area sailing team, accepted to Yachting Ventures. 
++ Voice: Created Nuance-based Android smart voice "assistant" and "field service" app for business, cloud timesheet and payroll integration | Interactive Partners
++ Fintech: Built a novel intelligent social marketplace platform prototype | ineeduneed / bidhacker solo startup project
++ Data-driven AI: Made a user-configurable, profile data-driven AI health-care triage "process advisor" to automate patient outcomes | Stealth Client
++ Hybrid Cloud: Created new hybrid cloud web tools system based on google sheets and mysql for game artists and live-game support | Lootdrop
++ J2EE architect: Architected gamified data-driven web applications and databases | Eveo
++ J2EE R&D: Coded a new light web application component framework for trading applications | Charles Schwab
++ Java: Reverse-engineered software for Websphere upgrade due to missing source code | Charles Schwab
 
 Technical Leadership
 + Thought leadership - Wrote articles for CTO Insights | Telegraph Hill Software (THS)
@@ -53,17 +56,17 @@ Technical Leadership
 + Due diligence on startup acquisition | PowerAssure
 + Lead on reverse-engineering project | Charles Schwab
 
-Technology UpSkill
-+ Google Cloud Platform (GCP) administration, networking, security
-+ GCP Data engineering, Apache Spark API, Python, data science
-+ Big data, AI and machine learning, predictive analytics on GCP
-+ GCP Data tools, data lake storage, GKE, Kubernetes, Microservices
-+ Java and Python Lambda, Functional, Stream, Parallel
-+ Voice/Speech/Audio/Language/NLP
-+ Fintech/regtech - crowdfunding, investors, KYC, compliance, transaction analysis
-
-Full Stack Technology Experience
-+ Java, J2EE, Servlet, JSP, MVC, TDD, OO, PHP, Javascript, AJAX, HTML5, Ajax, jQuery, JSON, MySQL, Apache Spark, Linux, Android, Nuance Voice, Github, Maven, Ant, Jira, LinkedIn API, Twitter API, GoogleDocs API, Google Location API, GPS, Linux, Git, Spring, Hibernate
+Specialized expertise: data-driven, patient avatars, healthcare, games, AI
++ Patient avatar backend for pharmaceutical physician marketing game (Eveo)
++ Patient profile-based healthcare web application for patient triage (Opco Health)
++ Data-driven negotiation, pricing optimization, NLP, and automation (Bidhacker)
++ Fintech/regtech/crowdfunding: investors, KYC, compliance, transaction analysis
++ Voice-based android AI Assistant MVP with NLP and cloud (Interactive Partners)
++ Prototype sentiment analysis, Pandorabot chatbots (Stealth)
++ Created hybrid cloud tools for game artists and live-game support | Lootdrop
++ Translated game logic from Objective-C to Android for game port
++ Reused Connect-4 game AI for Android app, created multiplayer mode.
++ Lead UX designer for Microbial Disease Lab | Compete / IBM / Dept Health
 
 Personal ⛵
 + Sailor, PADI Divemaster, open-water swimmer, photographer
@@ -73,16 +76,14 @@ Personal ⛵
 
 Recent books 
 + 7 habits of highly successful people
-+ The Girl who played with fire
-+ Day of the Jackal
-
-Contact
-+ email: saltyfog@gmail.com
-
++ Growth Mindset Playbook
++ Millenium Trilogy, Larsson
++ Day of the Jackal, Forsyth
++ In Cold Blood, Capote
 
 Computer Science Education
 -------------------------------------------
-+ Educational Focus: Cloud, Data Engineering, Big Data, Machine Learning, Complex Systems, GCP
++ Educational Focus: Cloud, Data Engineering, Big Data, Machine Learning, Complex Systems, Google Cloud Platform (GCP)
 
 Certificate programs and specializations
 + Foundations for Data Science (Stanford 3-course professional certificate) Jan 2021
