@@ -1,5 +1,3 @@
-# blake
-
 Technical Portfolio 
 
 Blake Rogers 
