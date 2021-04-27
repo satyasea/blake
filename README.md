@@ -13,7 +13,7 @@ Contact
 
 Summary
 ------------
-+ Specialized expertise: Data-driven, patient avatars, healthcare, games, AI
++ Specialized expertise: data-driven, patient avatars, healthcare, games, AI, Complex Systems
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer (Google Cloud Platform)
 + Languages: Java + Android, PHP, JS, HTML5, Python
 + Technology writer 
@@ -57,7 +57,7 @@ Technical Leadership
 + Due diligence on startup acquisition | PowerAssure
 + Lead on reverse-engineering project | Charles Schwab
 
-Specialized expertise: data-driven, patient avatars, healthcare, games, AI
+Specialized expertise: data-driven, patient avatars, healthcare, games, AI, Complex Systems
 + Patient avatar backend for pharmaceutical physician marketing game (Eveo)
 + Patient profile-based healthcare web application for patient triage (Opco Health)
 + Data-driven negotiation, pricing optimization, NLP, and automation (Bidhacker)
