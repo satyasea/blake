@@ -4,14 +4,13 @@ Technical Portfolio
 
 Blake Rogers 
 -----------
-Architect & Principal Software Engineer
+Entrepreneurial Architect & Principal Software Engineer
 ------------
 + Detailed Resume https://docs.google.com/document/d/1gqm22t3NKzfI4o2e2IbNSUsESSDUg0xzZpgpym64uXQ
 + LinkedIn https://www.linkedin.com/in/blakerogerz/
 
 Summary
 ------------
-+ Entrepreneurial Architect & Principal Software Engineer
 + Specialized expertise: Data-driven, patient avatars, healthcare, games, AI
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer (Google Cloud Platform)
 + Languages: Java + Android, PHP, JS, HTML5, Python, R
