@@ -16,6 +16,7 @@ Summary
 + Specialized expertise: Data-driven, patient avatars, healthcare, games, AI
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer (Google Cloud Platform)
 + Languages: Java + Android, PHP, JS, HTML5, Python
++ Technology writer 
 
 Education
 + Professional Certificate: Foundations For Data Science (Stanford University)
