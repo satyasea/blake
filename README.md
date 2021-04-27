@@ -1,9 +1,10 @@
 # blake
 
-README Portfolio 
-https://github.com/satyasea/blake
+Technical Portfolio 
 
-Blake Rogers
+Blake Rogers 
+-----------
+Architect & Principal Software Engineer
 ------------
 + Detailed Resume https://docs.google.com/document/d/1gqm22t3NKzfI4o2e2IbNSUsESSDUg0xzZpgpym64uXQ
 + LinkedIn https://www.linkedin.com/in/blakerogerz/
