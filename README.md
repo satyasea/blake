@@ -1,16 +1,16 @@
 # blake
 
 README Portfolio 
+https://github.com/satyasea/blake
 
 Blake Rogers
 ------------
-+ Executive Resume https://docs.google.com/document/d/18PqG5a9j-xRmUgSbALaaewU-1liFZpThk_5nVuvsuBo
 + Detailed Resume https://docs.google.com/document/d/1gqm22t3NKzfI4o2e2IbNSUsESSDUg0xzZpgpym64uXQ
 + LinkedIn https://www.linkedin.com/in/blakerogerz/
 
 Summary
 ------------
-+ Principal, Staff, Lead, Manager, Director, VP, Interim CTO
++ Entrepreneurial Architect & Principal Software Engineer
 + Specialized expertise: Data-driven, patient avatars, healthcare, games, AI
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer (Google Cloud Platform)
 + Languages: Java + Android, PHP, JS, HTML5, Python, R
@@ -20,18 +20,6 @@ Education
 + Professional Certificate: Foundations For Data Science (Stanford University)
 + Professional Certificate: Data Engineering with Google Cloud ( Coursera)
 + Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
-
-Leadership
-+ Thought leadership - Wrote articles for CTO Insights | Telegraph Hill Software (THS)
-+ Principal Engineer - professional services staff / GCP certified consultant | THS
-+ Consulting CTO on startup roadshow | FuturesForSale (no devs)
-+ Interim CTO for Crowdfunding startup | FundPaaS /aka QRCrowd (managed 2 devs)
-+ Interim CTO/CIO for Smart business assistant startup | Interactive Partners (no devs)
-+ Coordinator, Offshore Developers | Truaxis (2 devs)
-+ Liaison, Offshore Developers | EClincher (offshore dev shop)
-+ Founder, smart marketplace platform prototype | Bidhacker (solo project)
-+ Due diligence on startup acquisition | PowerAssure
-+ Lead on reverse-engineering project | Charles Schwab
 
 Specialized expertise: data-driven, patient avatars, healthcare, games, AI
 + Patient avatar backend for pharmaceutical physician marketing game (Eveo)
@@ -55,6 +43,18 @@ Technical Accomplishments
 + Coded a new light web application component framework for trading applications | Charles Schwab
 + Reverse-engineered software for Websphere upgrade due to missing source code | Charles Schwab
 
+Technical Leadership
++ Thought leadership - Wrote articles for CTO Insights | Telegraph Hill Software (THS)
++ Principal Engineer - professional services staff / GCP certified consultant | THS
++ Consulting CTO on startup roadshow | FuturesForSale (no devs)
++ Interim CTO for Crowdfunding startup | FundPaaS /aka QRCrowd (managed 2 devs)
++ Interim CTO/CIO for Smart business assistant startup | Interactive Partners (no devs)
++ Coordinator, Offshore Developers | Truaxis (2 devs)
++ Liaison, Offshore Developers | EClincher (offshore dev shop)
++ Founder, smart marketplace platform prototype | Bidhacker (solo project)
++ Due diligence on startup acquisition | PowerAssure
++ Lead on reverse-engineering project | Charles Schwab
+
 Technology UpSkill
 + Google Cloud Platform (GCP) administration, networking, security
 + GCP Data engineering, Apache Spark API, Python, data science
@@ -64,7 +64,7 @@ Technology UpSkill
 + Voice/Speech/Audio/Language/NLP
 + Fintech/regtech - crowdfunding, investors, KYC, compliance, transaction analysis
 
-Technology Experience
+Full Stack Technology Experience
 + Java, J2EE, Servlet, JSP, MVC, TDD, OO, PHP, Javascript, AJAX, HTML5, Ajax, jQuery, JSON, MySQL, Apache Spark, Linux, Android, Nuance Voice, Github, Maven, Ant, Jira, LinkedIn API, Twitter API, GoogleDocs API, Google Location API, GPS, Linux, Git, Spring, Hibernate
 
 Personal ⛵
