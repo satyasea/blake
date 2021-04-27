@@ -2,7 +2,7 @@ Technical Portfolio
 
 Blake Rogers 
 -----------
-Entrepreneurial Software Architect & Principal Software Engineer
+Entrepreneurial Principal Software Engineer & Software Architect
 ------------
 + Resume https://docs.google.com/document/d/1gqm22t3NKzfI4o2e2IbNSUsESSDUg0xzZpgpym64uXQ
 + LinkedIn https://www.linkedin.com/in/blakerogerz/
