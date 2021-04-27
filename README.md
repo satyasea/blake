@@ -36,7 +36,7 @@ Technology Experience
 Technical Accomplishments
 + Cloud & Data: Upskilled with Python, Cloud Engineering, Google Cloud Platform, Big Data, Data Engineering, Data Science, Machine Learning and AI on GCP
 + Mobile: Made an Android Sailboat racing app with speed-based audio feedback for a local bay area sailing team, accepted to Yachting Ventures. 
-+ Voice: Created Nuance-based Android smart voice "assistant" and "field service" app for business, cloud timesheet and payroll integration | Interactive Partners
++ Virtual Assistant AI: Created Nuance-based Android smart voice "assistant" and "field service" app for business, cloud timesheet and payroll integration | Interactive Partners
 + Fintech: Built a novel intelligent social marketplace platform prototype | ineeduneed / bidhacker solo startup project
 + Data-driven AI: Made a user-configurable, profile data-driven AI health-care triage "process advisor" to automate patient outcomes | Stealth Client
 + Hybrid Cloud: Created new hybrid cloud web tools system based on google sheets and mysql for game artists and live-game support | Lootdrop
