@@ -13,11 +13,25 @@ Contact
 
 Summary
 ------------
-+ Specialized knowledge: data-driven, patient avatars, healthcare, games, AI, Complex Systems, fintech, transactions
++ Entrepreneurial Principal Software Engineer & Software Architect
 + Technologies: Cloud & Data, Mobile, Virtual Assistant AI and voice, Data-driven AI, Hybrid Cloud, J2EE, Android
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer (Google Cloud Platform)
 + Languages: Java + Android, PHP, JS, HTML5, Python
 + Technology writer 
+
+Specialized knowledge: data-driven, patient avatars, healthcare, games, AI, Complex Systems, fintech, transactions
+------------
++ Patient avatar backend for pharmaceutical physician marketing game (Eveo)
++ Patient profile-based healthcare web application for patient triage (Opco Health)
++ Data-driven negotiation, pricing optimization, NLP, and automation (Bidhacker)
++ Fintech/regtech/crowdfunding: investors, KYC, compliance, transaction analysis
++ Voice-based android AI Assistant MVP with NLP and cloud (Interactive Partners)
++ Prototype sentiment analysis, Pandorabot chatbots (Stealth)
++ Created hybrid cloud tools for game artists and live-game support | Lootdrop
++ Translated game logic from Objective-C to Android for game port
++ Reused Connect-4 game AI for Android app, created multiplayer mode.
++ Lead UX designer for Microbial Disease Lab | Compete / IBM / Dept Health
+
 
 Education
 ------------
@@ -27,13 +41,15 @@ Education
 + Art and Dance studies, San Francisco City College
 + BA International Management, minor Nepali (World College West)
 
-Upskill in Distributed Computing, Cloud and Big Data
+Upskill Education in Distributed Computing, Cloud and Big Data, AI and Machine Learning, and Data Science
 ------------
 + Google Cloud Platform (GCP) administration, networking, security
-+ GCP Data engineering, Apache Spark API, Python, data science
++ GCP Data engineering, Apache Spark API, Python
++ Data Science
 + Big data, AI and machine learning, predictive analytics on GCP
 + GCP Data tools, data lake storage, GKE, Kubernetes, Microservices
 + Java and Python Lambda, Functional, Stream, Parallel
+
 
 Technology Experience
 ------------
@@ -63,19 +79,6 @@ Technical Leadership
 + Founder, smart marketplace platform prototype | Bidhacker (solo project)
 + Due diligence on startup acquisition | PowerAssure
 + Lead on reverse-engineering project | Charles Schwab
-
-Specialized knowledge: data-driven, patient avatars, healthcare, games, AI, Complex Systems, fintech, transactions
-------------
-+ Patient avatar backend for pharmaceutical physician marketing game (Eveo)
-+ Patient profile-based healthcare web application for patient triage (Opco Health)
-+ Data-driven negotiation, pricing optimization, NLP, and automation (Bidhacker)
-+ Fintech/regtech/crowdfunding: investors, KYC, compliance, transaction analysis
-+ Voice-based android AI Assistant MVP with NLP and cloud (Interactive Partners)
-+ Prototype sentiment analysis, Pandorabot chatbots (Stealth)
-+ Created hybrid cloud tools for game artists and live-game support | Lootdrop
-+ Translated game logic from Objective-C to Android for game port
-+ Reused Connect-4 game AI for Android app, created multiplayer mode.
-+ Lead UX designer for Microbial Disease Lab | Compete / IBM / Dept Health
 
 Personal ⛵
 + Sailor, PADI Divemaster, open-water swimmer, photographer, once studied hang-gliding
