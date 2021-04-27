@@ -13,7 +13,7 @@ Contact
 
 Summary
 ------------
-+ Specialized expertise: data-driven, patient avatars, healthcare, games, AI, Complex Systems
++ Specialized knowledge: data-driven, patient avatars, healthcare, games, AI, Complex Systems
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer (Google Cloud Platform)
 + Languages: Java + Android, PHP, JS, HTML5, Python
 + Technology writer 
