@@ -191,6 +191,6 @@ Online Profiles
 + Startup Bidhacker http://bidhacker.com (requires signing online NDA)
 + Hacker Rank https://www.hackerrank.com/saltyfog
 + Qwiklabs https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
-+ Instagram https://www.instagram.com/barondeburnham/
-+ Sailing Bio https://satyasea.blogspot.com/p/blakes-sailor-cv.html
+
+
 
