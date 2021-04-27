@@ -13,12 +13,14 @@ Contact
 
 Summary
 ------------
-+ Specialized knowledge: data-driven, patient avatars, healthcare, games, AI, Complex Systems
++ Specialized knowledge: data-driven, patient avatars, healthcare, games, AI, Complex Systems, fintech, transactions
++ Technologies: Cloud & Data, Mobile, Virtual Assistant AI and voice, Data-driven AI, Hybrid Cloud, J2EE, Android
 + Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer (Google Cloud Platform)
 + Languages: Java + Android, PHP, JS, HTML5, Python
 + Technology writer 
 
 Education
+------------
 + Professional Certificate: Foundations For Data Science (Stanford University)
 + Professional Certificate: Data Engineering with Google Cloud ( Coursera)
 + Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
@@ -26,6 +28,7 @@ Education
 + BA International Management, minor Nepali (World College West)
 
 Upskill in Distributed Computing, Cloud and Big Data
+------------
 + Google Cloud Platform (GCP) administration, networking, security
 + GCP Data engineering, Apache Spark API, Python, data science
 + Big data, AI and machine learning, predictive analytics on GCP
@@ -33,9 +36,11 @@ Upskill in Distributed Computing, Cloud and Big Data
 + Java and Python Lambda, Functional, Stream, Parallel
 
 Technology Experience
+------------
 + Java, J2EE, Servlet, JSP, MVC, TDD, OO, PHP, Javascript, AJAX, HTML5, Ajax, jQuery, JSON, MySQL, Apache Spark, Linux, Android, Nuance Voice, Github, Maven, Ant, Jira, LinkedIn API, Twitter API, GoogleDocs API, Google Location API, GPS, Linux, Git, Spring, Hibernate
 
 Technical Accomplishments
+----------------
 + Cloud & Data: Upskilled with Python, Cloud Engineering, Google Cloud Platform, Big Data, Data Engineering, Data Science, Machine Learning and AI on GCP
 + Mobile: Made an Android Sailboat racing app with speed-based audio feedback for a local bay area sailing team, accepted to Yachting Ventures. 
 + Virtual Assistant AI: Created Nuance-based Android smart voice "assistant" and "field service" app for business, cloud timesheet and payroll integration | Interactive Partners
@@ -47,6 +52,7 @@ Technical Accomplishments
 + Java: Reverse-engineered software for Websphere upgrade due to missing source code | Charles Schwab
 
 Technical Leadership
+------------
 + Thought leadership - Wrote articles for CTO Insights | Telegraph Hill Software (THS)
 + Principal Engineer - professional services staff / GCP certified consultant | THS
 + Consulting CTO on startup roadshow | FuturesForSale (no devs)
@@ -58,7 +64,8 @@ Technical Leadership
 + Due diligence on startup acquisition | PowerAssure
 + Lead on reverse-engineering project | Charles Schwab
 
-Specialized expertise: data-driven, patient avatars, healthcare, games, AI, Complex Systems
+Specialized knowledge: data-driven, patient avatars, healthcare, games, AI, Complex Systems, fintech, transactions
+------------
 + Patient avatar backend for pharmaceutical physician marketing game (Eveo)
 + Patient profile-based healthcare web application for patient triage (Opco Health)
 + Data-driven negotiation, pricing optimization, NLP, and automation (Bidhacker)
