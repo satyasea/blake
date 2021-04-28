@@ -51,6 +51,7 @@ Upskill Education in Distributed Computing, Cloud and Big Data, AI and Machine L
 + Big data, AI and machine learning, predictive analytics on GCP
 + GCP Data tools, data lake storage, GKE, Kubernetes, Microservices
 + Java and Python Lambda, Functional, Stream, Parallel
++ * See Computer Science Education section.
 
 Full Stack J2EE, mobile, and API Development 
 ------------
