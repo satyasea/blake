@@ -19,7 +19,7 @@ Summary
 + Languages: Java + Android, PHP, JS, HTML5, Python
 + Technology writer 
 
-Specialized knowledge: data-driven, patient avatars, healthcare, games, AI, Complex Systems, fintech, transactions
+Specialized knowledge: Google Cloud, data-driven, patient avatars, healthcare, games, AI , fintech, distributed computing, Cloud and Big Data, AI and Machine Learning, Data Science, Complex Systems, Silicon Valley, Startups, Crowdfunding, marketplaces, transactions
 ------------
 + Patient avatar backend for pharmaceutical physician marketing game (Eveo)
 + Patient profile-based healthcare web application for patient triage (Opco Health)
