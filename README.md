@@ -19,8 +19,8 @@ Summary
 + Languages: Java + Android, PHP, JS, HTML5, Python
 + Technology writer 
 
-Specialized knowledge: Google Cloud, data-driven, patient avatars, healthcare, games, AI , fintech, distributed computing, Cloud and Big Data, AI and Machine Learning, Data Science, Complex Systems, Silicon Valley, Startups, Crowdfunding, marketplaces, transactions
-------------
+Specialized knowledge: Google Cloud, data-driven, patient avatars, healthcare, games, AI, Voice, fintech, distributed computing, Cloud and Big Data, AI and Machine Learning, Data Science, Complex Systems, Silicon Valley, Startups, Crowdfunding, marketplaces, transactions, Java, Android, Internet, Oject Oriented, Patterns, model-driven development, code generation, visual development
+------------, 
 + Patient avatar backend for pharmaceutical physician marketing game (Eveo)
 + Patient profile-based healthcare web application for patient triage (Opco Health)
 + Data-driven negotiation, pricing optimization, NLP, and automation (Bidhacker)
@@ -101,7 +101,7 @@ Certificate programs and specializations
 + Foundations for Data Science (Stanford 3-course professional certificate) Jan 2021
 + Data Engineering with Google Cloud (Coursera 6-Course Professional Certificate) Jan 2020
 https://www.coursera.org/account/accomplishments/specialization/certificate/UNS74RDNU7E6
-+ Jan 2020 Data Engineering, Big Data, and Machine Learning on GCP (Coursera 5-course Specialization) Jan 2020
++ Data Engineering, Big Data, and Machine Learning on GCP (Coursera 5-course Specialization) Jan 2020
 https://coursera.org/share/62dac15e2ae582452c49d29d31c9a004
 
 Computer Science and Technology Courses
