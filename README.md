@@ -183,10 +183,10 @@ Github:
 + Apache Spark training projects https://github.com/satyasea/startspark
 + Data-structure & Algorithm interview challenges https://github.com/satyasea/challenge
 
-Certifications
+Professional Certifications and Certificates (verification URLs)
 ---------------
 + Jan 2021 Stanford, professional Certificate - Foundations for Data Science
-+ July 2020 HackerRank Java skills https://www.hackerrank.com/certificates/0cf012d8d573
++ + July 2020 HackerRank Java skills https://www.hackerrank.com/certificates/0cf012d8d573
 + Feb 2020 Google Cloud Platform Professional Data Engineer (GCP)
 https://www.credential.net/c8640f41-6c36-4c38-b103-64d4e64aa96b?key=106c10e7445f7d279086a803ebabf8269b113a1f271c8dbcfd2e058c40fe5913
 + Nov 2019 Google Cloud Platform Associate Cloud Engineer (GCP)
@@ -194,6 +194,7 @@ https://www.credential.net/40bccdf7-7cab-460c-8487-4e2a3db81d82
 + Jan 2020 Data Engineering with Google Cloud (Coursera 6-Course Professional Certificate)
 https://www.coursera.org/account/accomplishments/specialization/certificate/UNS74RDNU7E6
 + 2009 PADI SCUBA Divemaster
+
 
 Online Profiles
 -------------------------
