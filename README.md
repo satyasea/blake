@@ -82,21 +82,6 @@ Technical Leadership
 + Due diligence on startup acquisition | PowerAssure
 + Lead on reverse-engineering project | Charles Schwab
 
-Personal ⛵
-------------
-+ Sailor, PADI Divemaster, open-water swimmer, photographer, once studied hang-gliding
-+ Member YMCA, Commonwealth Club
-+ Languages: English, conversational Spanish; previously some French and Nepali
-+ Int'l Travel: Mexico, central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
-
-Recent books 
-------------
-+ 7 habits of highly successful people
-+ Growth Mindset Playbook
-+ Millenium Trilogy, Larsson
-+ Day of the Jackal, Forsyth
-+ In Cold Blood, Capote
-
 Computer Science Education
 -------------------------------------------
 + Educational Focus: Cloud, Data Engineering, Big Data, Machine Learning, Complex Systems, Google Cloud Platform (GCP)
@@ -209,5 +194,17 @@ Online Profiles
 + Hacker Rank https://www.hackerrank.com/saltyfog
 + Qwiklabs https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
 
+Personal ⛵
+------------
++ Sailor, PADI Divemaster, open-water swimmer, photographer, once studied hang-gliding
++ Member YMCA, Commonwealth Club
++ Languages: English, conversational Spanish; previously some French and Nepali
++ Int'l Travel: Mexico, central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
 
-
+Recent books 
+------------
++ 7 habits of highly successful people
++ Growth Mindset Playbook
++ Millenium Trilogy, Larsson
++ Day of the Jackal, Forsyth
++ In Cold Blood, Capote
