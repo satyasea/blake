@@ -19,6 +19,13 @@ Summary
 + Languages: Java + Android, PHP, JS, HTML5, Python
 + Technology writer 
 
+Education
+------------
++ Professional Certificate: Foundations For Data Science (Stanford University)
++ Professional Certificate: Data Engineering with Google Cloud ( Coursera)
++ Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
++ BA International Management, minor Nepali (World College West)
+
 Specialized knowledge
 ------------
 Google Cloud, data-driven, patient avatars, healthcare, games, AI, Voice, fintech, distributed computing, Cloud and Big Data, AI and Machine Learning, Data Science, Complex Systems, Silicon Valley, Startups, Crowdfunding, marketplaces, transactions, Java, Android, Internet, Oject Oriented, Patterns, model-driven development, code generation, visual development
@@ -36,15 +43,6 @@ Specialized Domain Projects
 + Reused Connect-4 game AI for Android app, created multiplayer mode.
 + Lead UX designer for Microbial Disease Lab | Compete / IBM / Dept Health
 
-
-Education
-------------
-+ Professional Certificate: Foundations For Data Science (Stanford University)
-+ Professional Certificate: Data Engineering with Google Cloud ( Coursera)
-+ Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
-+ Art and Dance studies, San Francisco City College
-+ BA International Management, minor Nepali (World College West)
-
 Upskill Education in Distributed Computing, Cloud and Big Data, AI and Machine Learning, and Data Science
 ------------
 + Google Cloud Platform (GCP) administration, networking, security
@@ -54,8 +52,7 @@ Upskill Education in Distributed Computing, Cloud and Big Data, AI and Machine L
 + GCP Data tools, data lake storage, GKE, Kubernetes, Microservices
 + Java and Python Lambda, Functional, Stream, Parallel
 
-
-Technology Experience
+Full Stack J2EE, mobile, and API Development 
 ------------
 + Java, J2EE, Servlet, JSP, MVC, TDD, OO, PHP, Javascript, AJAX, HTML5, Ajax, jQuery, JSON, MySQL, Apache Spark, Linux, Android, Nuance Voice, Github, Maven, Ant, Jira, LinkedIn API, Twitter API, GoogleDocs API, Google Location API, GPS, Linux, Git, Spring, Hibernate
 
@@ -85,12 +82,14 @@ Technical Leadership
 + Lead on reverse-engineering project | Charles Schwab
 
 Personal ⛵
+------------
 + Sailor, PADI Divemaster, open-water swimmer, photographer, once studied hang-gliding
 + Member YMCA, Commonwealth Club
 + Languages: English, conversational Spanish; previously some French and Nepali
 + Int'l Travel: Mexico, central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
 
 Recent books 
+------------
 + 7 habits of highly successful people
 + Growth Mindset Playbook
 + Millenium Trilogy, Larsson
