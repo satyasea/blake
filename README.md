@@ -9,7 +9,6 @@ Entrepreneurial Principal Software Engineer & Software Architect
 
 Contact
 + saltyfog@gmail.com
-+ 415-955-7047
 
 Summary
 ------------
