@@ -9,13 +9,6 @@ Entrepreneurial Principal Software Engineer, Software Architect, Leader, Writer
 Contact
 + saltyfog@gmail.com
 
-Education
-------------
-+ Professional Certificate: Foundations For Data Science (Stanford University)
-+ Professional Certificate: Data Engineering with Google Cloud ( Coursera)
-+ Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
-+ BA International Management, minor Nepali (World College West)
-
 Skillset: scope of knowledge and experience 
 ------------
 + Primary programming Language: Java
@@ -30,6 +23,13 @@ Recent Upskill Education & Training: Distributed Computing, Cloud and Big Data, 
 + GCP Data tools, data lake storage, GKE, Kubernetes, Microservices
 + Java and Python Lambda, Functional, Stream, Parallel
 + * See Computer Science Education section.
+
+Education
+------------
++ Professional Certificate: Foundations For Data Science (Stanford University)
++ Professional Certificate: Data Engineering with Google Cloud ( Coursera)
++ Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
++ BA International Management, minor Nepali (World College West)
 
 Full Stack Development
 ------------
@@ -76,6 +76,7 @@ Technical Leadership
 + Founder, smart marketplace platform prototype | Bidhacker (solo project)
 + Due diligence on startup acquisition | PowerAssure
 + Lead on reverse-engineering project | Charles Schwab
+
 
 Computer Science Education
 -------------------------------------------
