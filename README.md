@@ -82,6 +82,33 @@ Github:
 + Apache Spark training projects https://github.com/satyasea/startspark
 + Data-structure & Algorithm interview challenges https://github.com/satyasea/challenge
 
+Writing
+--------
+Distributed computing and user experience, technical strategy, onboarding, knowledge transfer, scaling offshore teams, IP assessment, patent, disaster response, web server administration, OLAP data warehouse administration. 
+
+Paid blog articles for Telegraph Hill Software CTO Insights
++ https://telegraphhillsoftware.com/insights/
++ https://telegraphhillsoftware.com/google-cloud-certification-ace/
++ https://telegraphhillsoftware.com/heroku-migration/ (research/ghostwriter)
++ https://telegraphhillsoftware.com/big-data-distributed-accountability/
++ https://telegraphhillsoftware.com/big-data-no-ticket/
++ https://telegraphhillsoftware.com/ten-key-terms-in-distributed-computing/
++ https://telegraphhillsoftware.com/starting-the-spark/
+
+Articles on LinkedIn Pulse
++ https://www.linkedin.com/pulse/virtual-assistant-avatar-ai-simplified-blake-rogers
++ https://www.linkedin.com/pulse/onboarding-101-managing-complexity-team-building-blake-rogers/
++ https://www.linkedin.com/pulse/reduce-reuse-recycle-managing-complexity-agile-world-blake-rogers/
++ https://www.linkedin.com/pulse/collaborating-new-machines-blake-rogers/
++ https://www.linkedin.com/pulse/maxwells-demon-engine-transactional-facilitation-blake-rogers/
+
+Other technical Articles
++ https://wings.medium.com/a-hybrid-model-for-diy-collaborative-customer-engagement-bc58bcb5b31e?sk=05831e5beb2bf76df06ff7966721e0c9
++ https://wings.medium.com/dont-overthink-it-e7087d8b3ac
++ https://wings.medium.com/whiteboarding-algorithms-strategy-and-simplified-time-complexity-eab8ed0fa8f4
++ https://wings.medium.com/tweeting-in-the-stream-2b3ebf10d6e3
++ https://wings.medium.com/vintage-ethereum-testnet-and-wallet-tests-31522e0d6ec4
+
 Education
 ------------
 + Professional Certificate: Foundations For Data Science (Stanford University)
@@ -131,33 +158,6 @@ Google Cloud Platform 6 Lab Quests / 44 Labs
 + Baseline: Data, ML, AI
 + Data Engineering
 + Google Cloud Essentials
-
-Writing
---------
-Distributed computing and user experience, technical strategy, onboarding, knowledge transfer, scaling offshore teams, IP assessment, patent, disaster response, web server administration, OLAP data warehouse administration. 
-
-Paid blog articles for Telegraph Hill Software CTO Insights
-+ https://telegraphhillsoftware.com/insights/
-+ https://telegraphhillsoftware.com/google-cloud-certification-ace/
-+ https://telegraphhillsoftware.com/heroku-migration/ (research/ghostwriter)
-+ https://telegraphhillsoftware.com/big-data-distributed-accountability/
-+ https://telegraphhillsoftware.com/big-data-no-ticket/
-+ https://telegraphhillsoftware.com/ten-key-terms-in-distributed-computing/
-+ https://telegraphhillsoftware.com/starting-the-spark/
-
-Articles on LinkedIn Pulse
-+ https://www.linkedin.com/pulse/virtual-assistant-avatar-ai-simplified-blake-rogers
-+ https://www.linkedin.com/pulse/onboarding-101-managing-complexity-team-building-blake-rogers/
-+ https://www.linkedin.com/pulse/reduce-reuse-recycle-managing-complexity-agile-world-blake-rogers/
-+ https://www.linkedin.com/pulse/collaborating-new-machines-blake-rogers/
-+ https://www.linkedin.com/pulse/maxwells-demon-engine-transactional-facilitation-blake-rogers/
-
-Other technical Articles
-+ https://wings.medium.com/a-hybrid-model-for-diy-collaborative-customer-engagement-bc58bcb5b31e?sk=05831e5beb2bf76df06ff7966721e0c9
-+ https://wings.medium.com/dont-overthink-it-e7087d8b3ac
-+ https://wings.medium.com/whiteboarding-algorithms-strategy-and-simplified-time-complexity-eab8ed0fa8f4
-+ https://wings.medium.com/tweeting-in-the-stream-2b3ebf10d6e3
-+ https://wings.medium.com/vintage-ethereum-testnet-and-wallet-tests-31522e0d6ec4
 
 Online Profiles
 -------------------------
