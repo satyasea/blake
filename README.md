@@ -2,20 +2,12 @@ Technical Portfolio
 
 Blake Rogers 
 -----------
-Entrepreneurial Principal Software Engineer & Software Architect
+Entrepreneurial Principal Software Engineer, Software Architect, Writer
 ------------
 + LinkedIn https://www.linkedin.com/in/blakerogerz/
 
 Contact
 + saltyfog@gmail.com
-
-Summary
-------------
-+ Entrepreneurial Principal Software Engineer & Software Architect
-+ Technologies: Cloud & Data, Mobile, Virtual Assistant AI and voice, Data-driven AI, Hybrid Cloud, J2EE, Android
-+ Certifications: GCP Professional Data Engineer, GCP Associate Cloud Engineer (Google Cloud Platform)
-+ Languages: Java + Android, PHP, JS, HTML5, Python
-+ Technology writer 
 
 Education
 ------------
@@ -24,9 +16,28 @@ Education
 + Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
 + BA International Management, minor Nepali (World College West)
 
-Specialized knowledge
+Scope of knowledge & experience
 ------------
-Google Cloud, data-driven, patient avatars, healthcare, games, AI, Voice, virtual assistants, fintech, distributed computing, Cloud and Big Data, AI and Machine Learning, Data Science, Complex Systems, Silicon Valley, Startups, Crowdfunding, marketplaces, transactions, Java, Android, Internet, Object Oriented, Patterns, model-driven development, code generation, visual development, computer science
++Primary programming Language: Java
++Google Cloud, data-driven, patient avatars, healthcare, games, AI, Voice, virtual assistants, fintech, technical leadership, Lean, Agile, personal growth, motivational psychology, blogging, media, regtech, distributed computing, Cloud and Big Data, AI and Machine Learning, Data Science, Complex Systems, Silicon Valley, Startups, evangelism, interim CTO/CIO/controller, Crowdfunding, marketplaces, transactions, architecture,  Object Oriented, Patterns, model-driven development, cross-platform, code generation, visual development, business, accounting, brokerages, consulting, financial analysis, language, sailing and SCUBA
+
+Upskill Education & Training: Distributed Computing, Cloud and Big Data, AI and Machine Learning, and Data Science
+------------
++ Google Cloud Platform (GCP) administration, networking, security
++ GCP Data engineering, Apache Spark API, Python
++ Data Science
++ Big data, AI and machine learning, predictive analytics on GCP
++ GCP Data tools, data lake storage, GKE, Kubernetes, Microservices
++ Java and Python Lambda, Functional, Stream, Parallel
++ * See Computer Science Education section.
+
+Full Stack
+------------
++ J2EE, Servlet, JSP, MVC, TDD, OOP, PHP, Javascript, AJAX, XML, Jackson, Apache, JSON, HTML5, PHP, JS, AJAX, MySQL, SQL, jQuery, Spring, Hibernate, full-stack, cross-platform, mobile, HTML5, Java, Android, Internet/WWW, SSL/TLS/SMTP
+
+Etc
+-----
++ Android, Nuance Voice, Github, Maven, Ant, Jira, LinkedIn API, Twitter API, GoogleDocs API, Google Location API, GPS, Ubuntu Linux 
 
 Specialized Domain Projects
 ------------
@@ -40,20 +51,6 @@ Specialized Domain Projects
 + Translated game logic from Objective-C to Android for game port
 + Reused Connect-4 game AI for Android app, created multiplayer mode.
 + Lead UX designer for Microbial Disease Lab | Compete / IBM / Dept Health
-
-Upskill Education & Training: Distributed Computing, Cloud and Big Data, AI and Machine Learning, and Data Science
-------------
-+ Google Cloud Platform (GCP) administration, networking, security
-+ GCP Data engineering, Apache Spark API, Python
-+ Data Science
-+ Big data, AI and machine learning, predictive analytics on GCP
-+ GCP Data tools, data lake storage, GKE, Kubernetes, Microservices
-+ Java and Python Lambda, Functional, Stream, Parallel
-+ * See Computer Science Education section.
-
-Full Stack J2EE, mobile, and API Development 
-------------
-+ Java, J2EE, Servlet, JSP, MVC, TDD, OO, PHP, Javascript, AJAX, HTML5, Ajax, jQuery, JSON, MySQL, Apache Spark, Linux, Android, Nuance Voice, Github, Maven, Ant, Jira, LinkedIn API, Twitter API, GoogleDocs API, Google Location API, GPS, Linux, Git, Spring, Hibernate
 
 Technical Accomplishments
 ----------------
