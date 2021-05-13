@@ -14,6 +14,11 @@ Skillset: scope of knowledge and experience
 + Primary programming Language: Java
 + Google Cloud, data-driven, patient avatars, healthcare, games, AI, Voice, virtual assistants, fintech, technical leadership, Lean, Agile, personal growth, motivational psychology, blogging, media, regtech, distributed computing, Cloud and Big Data, AI and Machine Learning, Data Science, Complex Systems, Silicon Valley, Startups, evangelism, interim CTO/CIO/controller, Crowdfunding, KYC, compliance, marketplaces, transactions, architecture,  Object Oriented, Patterns, model-driven development, cross-platform, code generation, cross-platform, Internet/web, visual development, business, accounting, brokerages, consulting, financial analysis, language, sailing and SCUBA
 
+GCP Certified Professional Data Engineer & Associate Cloud Engineer
+----------
++ Feb 2020 Google Cloud Platform Professional Data Engineer (GCP)
++ Nov 2019 Google Cloud Platform Associate Cloud Engineer 
+
 Recent Upskill Education & Training: Distributed Computing, Cloud and Big Data, AI and Machine Learning, and Data Science
 ------------
 + Google Cloud Platform (GCP) administration, networking, security
@@ -77,7 +82,6 @@ Technical Leadership
 + Due diligence on startup acquisition | PowerAssure
 + Lead on reverse-engineering project | Charles Schwab
 
-
 Computer Science Education
 -------------------------------------------
 + Educational Focus: Cloud, Data Engineering, Big Data, Machine Learning, Complex Systems, Google Cloud Platform (GCP)
@@ -122,7 +126,6 @@ Google Cloud Platform 6 Lab Quests / 44 Labs
 + Baseline: Data, ML, AI
 + Data Engineering
 + Google Cloud Essentials
-
 
 Writing
 --------
@@ -171,15 +174,13 @@ Github:
 Professional Certifications and Certificates (verification URLs)
 ---------------
 + Jan 2021 Stanford, professional Certificate - Foundations for Data Science
-+ + July 2020 HackerRank Java skills https://www.hackerrank.com/certificates/0cf012d8d573
 + Feb 2020 Google Cloud Platform Professional Data Engineer (GCP)
 https://www.credential.net/c8640f41-6c36-4c38-b103-64d4e64aa96b?key=106c10e7445f7d279086a803ebabf8269b113a1f271c8dbcfd2e058c40fe5913
 + Nov 2019 Google Cloud Platform Associate Cloud Engineer (GCP)
 https://www.credential.net/40bccdf7-7cab-460c-8487-4e2a3db81d82
 + Jan 2020 Data Engineering with Google Cloud (Coursera 6-Course Professional Certificate)
 https://www.coursera.org/account/accomplishments/specialization/certificate/UNS74RDNU7E6
-+ 2009 PADI SCUBA Divemaster
-
++ July 2020 HackerRank Java skills https://www.hackerrank.com/certificates/0cf012d8d573
 
 Online Profiles
 -------------------------
