@@ -16,12 +16,12 @@ Education
 + Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
 + BA International Management, minor Nepali (World College West)
 
-Scope of knowledge & experience
+Skillset: scope of knowledge and experience 
 ------------
 + Primary programming Language: Java
-+ Google Cloud, data-driven, patient avatars, healthcare, games, AI, Voice, virtual assistants, fintech, technical leadership, Lean, Agile, personal growth, motivational psychology, blogging, media, regtech, distributed computing, Cloud and Big Data, AI and Machine Learning, Data Science, Complex Systems, Silicon Valley, Startups, evangelism, interim CTO/CIO/controller, Crowdfunding, marketplaces, transactions, architecture,  Object Oriented, Patterns, model-driven development, cross-platform, code generation, visual development, business, accounting, brokerages, consulting, financial analysis, language, sailing and SCUBA
++ Google Cloud, data-driven, patient avatars, healthcare, games, AI, Voice, virtual assistants, fintech, technical leadership, Lean, Agile, personal growth, motivational psychology, blogging, media, regtech, distributed computing, Cloud and Big Data, AI and Machine Learning, Data Science, Complex Systems, Silicon Valley, Startups, evangelism, interim CTO/CIO/controller, Crowdfunding, KYC, compliance, marketplaces, transactions, architecture,  Object Oriented, Patterns, model-driven development, cross-platform, code generation, cross-platform, Internet/web, visual development, business, accounting, brokerages, consulting, financial analysis, language, sailing and SCUBA
 
-Upskill Education & Training: Distributed Computing, Cloud and Big Data, AI and Machine Learning, and Data Science
+Recent Upskill Education & Training: Distributed Computing, Cloud and Big Data, AI and Machine Learning, and Data Science
 ------------
 + Google Cloud Platform (GCP) administration, networking, security
 + GCP Data engineering, Apache Spark API, Python
@@ -31,13 +31,13 @@ Upskill Education & Training: Distributed Computing, Cloud and Big Data, AI and 
 + Java and Python Lambda, Functional, Stream, Parallel
 + * See Computer Science Education section.
 
-Full Stack
+Full Stack Development
 ------------
-+ J2EE, Servlet, JSP, MVC, TDD, OOP, PHP, Javascript, AJAX, XML, Jackson, Apache, JSON, HTML5, PHP, JS, AJAX, MySQL, SQL, jQuery, Spring, Hibernate, full-stack, cross-platform, mobile, HTML5, Java, Android, Internet/WWW, SSL/TLS/SMTP
++ J2EE, Servlet, JSP, MVC, HTML5, Android, TDD, OOP, PHP, Javascript, AJAX, XML, Jackson, Apache, JSON, HTML5, PHP, JS, AJAX, MySQL, SQL, jQuery, Spring, Hibernate
 
 Etc
 -----
-+ Android, Nuance Voice, Github, Maven, Ant, Jira, LinkedIn API, Twitter API, GoogleDocs API, Google Location API, GPS, Ubuntu Linux 
++ Services, Launchers, Installers, Nuance Voice, Maven, Ant, Jira, LinkedIn API, Twitter API, GoogleDocs API, Google Location API, GPS, Ubuntu Linux 
 
 Specialized Domain Projects
 ------------
