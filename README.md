@@ -41,7 +41,7 @@ Specialized Domain Projects
 + Reused Connect-4 game AI for Android app, created multiplayer mode.
 + Lead UX designer for Microbial Disease Lab | Compete / IBM / Dept Health
 
-Upskill Education in Distributed Computing, Cloud and Big Data, AI and Machine Learning, and Data Science
+Upskill Education & Training: Distributed Computing, Cloud and Big Data, AI and Machine Learning, and Data Science
 ------------
 + Google Cloud Platform (GCP) administration, networking, security
 + GCP Data engineering, Apache Spark API, Python
