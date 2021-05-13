@@ -18,8 +18,8 @@ Education
 
 Scope of knowledge & experience
 ------------
-+Primary programming Language: Java
-+Google Cloud, data-driven, patient avatars, healthcare, games, AI, Voice, virtual assistants, fintech, technical leadership, Lean, Agile, personal growth, motivational psychology, blogging, media, regtech, distributed computing, Cloud and Big Data, AI and Machine Learning, Data Science, Complex Systems, Silicon Valley, Startups, evangelism, interim CTO/CIO/controller, Crowdfunding, marketplaces, transactions, architecture,  Object Oriented, Patterns, model-driven development, cross-platform, code generation, visual development, business, accounting, brokerages, consulting, financial analysis, language, sailing and SCUBA
++ Primary programming Language: Java
++ Google Cloud, data-driven, patient avatars, healthcare, games, AI, Voice, virtual assistants, fintech, technical leadership, Lean, Agile, personal growth, motivational psychology, blogging, media, regtech, distributed computing, Cloud and Big Data, AI and Machine Learning, Data Science, Complex Systems, Silicon Valley, Startups, evangelism, interim CTO/CIO/controller, Crowdfunding, marketplaces, transactions, architecture,  Object Oriented, Patterns, model-driven development, cross-platform, code generation, visual development, business, accounting, brokerages, consulting, financial analysis, language, sailing and SCUBA
 
 Upskill Education & Training: Distributed Computing, Cloud and Big Data, AI and Machine Learning, and Data Science
 ------------
