@@ -98,10 +98,8 @@ Education
 + Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
 + BA International Management, minor Nepali (World College West)
 
-Computer Science Education
+Computer Science Education: Cloud, Data Engineering, Big Data, Machine Learning, AI, Complex Systems, Google Cloud Platform
 -------------------------------------------
-+ Educational Focus: Cloud, Data Engineering, Big Data, Machine Learning, Complex Systems, Google Cloud Platform (GCP)
-
 Certificate programs and specializations
 + Foundations for Data Science (Stanford 3-course professional certificate) Jan 2021
 + Data Engineering with Google Cloud (Coursera 6-Course Professional Certificate) Jan 2020
