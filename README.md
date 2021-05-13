@@ -29,13 +29,6 @@ Recent Upskill Education & Training: Distributed Computing, Cloud and Big Data, 
 + Java and Python Lambda, Functional, Stream, Parallel
 + * See Computer Science Education section.
 
-Education
-------------
-+ Professional Certificate: Foundations For Data Science (Stanford University)
-+ Professional Certificate: Data Engineering with Google Cloud ( Coursera)
-+ Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
-+ BA International Management, minor Nepali (World College West)
-
 Full Stack Development
 ------------
 + J2EE, Servlet, JSP, MVC, HTML5, Android, TDD, OOP, PHP, Javascript, AJAX, XML, Jackson, Apache, JSON, HTML5, PHP, JS, AJAX, MySQL, SQL, jQuery, Spring, Hibernate
@@ -81,6 +74,29 @@ Technical Leadership
 + Founder, smart marketplace platform prototype | Bidhacker (solo project)
 + Due diligence on startup acquisition | PowerAssure
 + Lead on reverse-engineering project | Charles Schwab
+
+Software Exhibits
+-------------------
+
+Recent creations
++ 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o
++ 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc
++ 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
++ 2015 Research report slides - Online Journal https://docs.google.com/presentation/d/1636vAd5SmFATFJHcyAA4iWLjViK4NVfi8fTRuxsk1LQ
++ 2014 Smart Voice Assistant App architecture https://docs.google.com/drawings/d/1QvO6cmqsqf5tlmCoClD30SeFfXG9NyRqrv-rJ5RLCa0
++ 2014 Cloud Timesheet Client architecture https://docs.google.com/drawings/d/1vrHDwnzxId232HlcFV00r-43BAU7QRiaIXZdwWnhHFU
++ 2014 Cloud Timesheet Server architecture https://docs.google.com/drawings/d/1zGPXZaCKatvZAiFRChIsUc8iNRneS-AGiRHk1Q0ATnQ
+
+Github:
++ Apache Spark training projects https://github.com/satyasea/startspark
++ Data-structure & Algorithm interview challenges https://github.com/satyasea/challenge
+
+Education
+------------
++ Professional Certificate: Foundations For Data Science (Stanford University)
++ Professional Certificate: Data Engineering with Google Cloud ( Coursera)
++ Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
++ BA International Management, minor Nepali (World College West)
 
 Computer Science Education
 -------------------------------------------
@@ -153,34 +169,6 @@ Other technical Articles
 + https://wings.medium.com/whiteboarding-algorithms-strategy-and-simplified-time-complexity-eab8ed0fa8f4
 + https://wings.medium.com/tweeting-in-the-stream-2b3ebf10d6e3
 + https://wings.medium.com/vintage-ethereum-testnet-and-wallet-tests-31522e0d6ec4
-
-
-Software Exhibits
--------------------
-
-Recent creations
-+ 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o
-+ 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc
-+ 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
-+ 2015 Research report slides - Online Journal https://docs.google.com/presentation/d/1636vAd5SmFATFJHcyAA4iWLjViK4NVfi8fTRuxsk1LQ
-+ 2014 Smart Voice Assistant App architecture https://docs.google.com/drawings/d/1QvO6cmqsqf5tlmCoClD30SeFfXG9NyRqrv-rJ5RLCa0
-+ 2014 Cloud Timesheet Client architecture https://docs.google.com/drawings/d/1vrHDwnzxId232HlcFV00r-43BAU7QRiaIXZdwWnhHFU
-+ 2014 Cloud Timesheet Server architecture https://docs.google.com/drawings/d/1zGPXZaCKatvZAiFRChIsUc8iNRneS-AGiRHk1Q0ATnQ
-
-Github:
-+ Apache Spark training projects https://github.com/satyasea/startspark
-+ Data-structure & Algorithm interview challenges https://github.com/satyasea/challenge
-
-Professional Certifications and Certificates (verification URLs)
----------------
-+ Jan 2021 Stanford, professional Certificate - Foundations for Data Science
-+ Feb 2020 Google Cloud Platform Professional Data Engineer (GCP)
-https://www.credential.net/c8640f41-6c36-4c38-b103-64d4e64aa96b?key=106c10e7445f7d279086a803ebabf8269b113a1f271c8dbcfd2e058c40fe5913
-+ Nov 2019 Google Cloud Platform Associate Cloud Engineer (GCP)
-https://www.credential.net/40bccdf7-7cab-460c-8487-4e2a3db81d82
-+ Jan 2020 Data Engineering with Google Cloud (Coursera 6-Course Professional Certificate)
-https://www.coursera.org/account/accomplishments/specialization/certificate/UNS74RDNU7E6
-+ July 2020 HackerRank Java skills https://www.hackerrank.com/certificates/0cf012d8d573
 
 Online Profiles
 -------------------------
