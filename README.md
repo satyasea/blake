@@ -37,30 +37,21 @@ Etc
 -----
 + Services, Launchers, Installers, Nuance Voice, Maven, Ant, Jira, LinkedIn API, Twitter API, GoogleDocs API, Google Location API, GPS, Ubuntu Linux 
 
-Specialized Domain Projects
-------------
-+ Patient avatar backend for pharmaceutical physician marketing game (Eveo)
-+ Patient profile-based healthcare web application for patient triage (Opco Health)
-+ Data-driven negotiation, pricing optimization, NLP, and automation (Bidhacker)
-+ Fintech/regtech/crowdfunding: investors, KYC, compliance, transaction analysis
-+ Voice-based android AI Assistant MVP with NLP and cloud (Interactive Partners)
-+ Prototype sentiment analysis, Pandorabot chatbots (Stealth)
-+ Created hybrid cloud tools for game artists and live-game support | Lootdrop
-+ Translated game logic from Objective-C to Android for game port
-+ Reused Connect-4 game AI for Android app, created multiplayer mode.
-+ Lead UX designer for Microbial Disease Lab | Compete / IBM / Dept Health
-
-Technical Accomplishments
+Technical Accomplishments and Specialized Domain Projects
 ----------------
-+ Cloud & Data: Upskilled with Python, Cloud Engineering, Google Cloud Platform, Big Data, Data Engineering, Data Science, Machine Learning and AI on GCP
-+ Mobile: Made an Android Sailboat racing app with speed-based audio feedback for a local bay area sailing team, accepted to Yachting Ventures. 
-+ Virtual Assistant AI: Created Nuance-based Android smart voice "assistant" and "field service" app for business, cloud timesheet and payroll integration | Interactive Partners
-+ Fintech: Built a novel intelligent social marketplace platform prototype | ineeduneed / bidhacker solo startup project
-+ Data-driven AI: Made a user-configurable, profile data-driven AI health-care triage "process advisor" to automate patient outcomes | Stealth Client
-+ Hybrid Cloud: Created new hybrid cloud web tools system based on google sheets and mysql for game artists and live-game support | Lootdrop
-+ J2EE architect: Architected gamified data-driven web applications and databases | Eveo
-+ J2EE R&D: Coded a new light web application component framework for trading applications | Charles Schwab
-+ Java: Reverse-engineered software for Websphere upgrade due to missing source code | Charles Schwab
++ Mobile Apps: Created an Android Sailboat racing app with speed-based audio feedback for a local bay area sailing team, accepted to Yachting Ventures. 
++ Interim CTO Fintech/regtech/crowdfunding: strategy, management, interviewing, investors, crowdfunding KYC, compliance, transaction analysis. | FundPaas
++ Virtual Assistant AI: Conversational Nuance-based Android smart voice digital assistant app for business, location, cloud timesheet and payroll integration | Interactive Partners
++ Fintech: Built a novel intelligent social marketplace platform prototype with data-driven negotiation, pricing optimization, NLP, and automation | bidhacker solo startup project
++ Chatbot AI: Prototype sentiment analysis, Pandorabot chatbots | Stealth
++ Data-driven health AI: Made a user-configurable, profile data-driven triage "process advisor" to automate patient outcomes | Stealth Client
++ Hybrid Cloud Gaming: Created new hybrid cloud web tools system based on google sheets and mysql for game artists and live-game support | Lootdrop
++ Mobile Gaming AI: Reused Connect-4 game AI for Android app, created multiplayer mode | gaming interview project
++ Mobile Gaming AI: Translated game logic from Objective-C to Android for game port | Orange
++ J2EE architect: Gamified data-driven web applications and databases, patient avatar backend for pharmaceutical physician marketing game | Eveo
++ J2EE Lead R&D: Coded a new light web application component framework for trading applications | Charles Schwab
++ Java Lead: Reverse-engineered software for Websphere upgrade due to missing source code | Charles Schwab
++ Lead UX: Designer for Microbial Disease Lab | Compete / IBM / Dept Health
 
 Technical Leadership
 ------------
