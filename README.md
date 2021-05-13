@@ -26,7 +26,7 @@ Education
 
 Specialized knowledge
 ------------
-Google Cloud, data-driven, patient avatars, healthcare, games, AI, Voice, fintech, distributed computing, Cloud and Big Data, AI and Machine Learning, Data Science, Complex Systems, Silicon Valley, Startups, Crowdfunding, marketplaces, transactions, Java, Android, Internet, Oject Oriented, Patterns, model-driven development, code generation, visual development
+Google Cloud, data-driven, patient avatars, healthcare, games, AI, Voice, virtual assistants, fintech, distributed computing, Cloud and Big Data, AI and Machine Learning, Data Science, Complex Systems, Silicon Valley, Startups, Crowdfunding, marketplaces, transactions, Java, Android, Internet, Object Oriented, Patterns, model-driven development, code generation, visual development, computer science
 
 Specialized Domain Projects
 ------------
