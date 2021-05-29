@@ -11,7 +11,7 @@ Contact
 
 Philosophy
 ------------
-As both a sailor and complex systems thinker, amidst chaos, I assess crises and recover, and seek a consistent heading at the helm. I have a childlike curiosity spanning many fields, from art and music to how machines work. I'm visual, spacial, and abstract. In fact, I rebuilt my vintage BMW engine in my garage when I was in college. I bring this to all things. I take deep dives into Wikipedia, go down the wormholes and rabbit holes and read the fine print. I am interested in personalities and motives, and understand the value of building effective coalitions, since greater power comes from interdependence. I take pride in elegant ideas, even simple ones, inventions, solutions, even great failures. I focus on personal growth and well-being. I'm differently abled, a pro-diversity, feminist, pro-LGBTQ+. 
+I focus on personal growth and well-being. I think differently, I'm pro-diversity, feminist, and pro-LGBTQ+. As both a sailor and complex systems thinker, amidst chaos, I assess crises, evaluate, reflect, and recover, and seek a consistent heading at the helm. I have a childlike curiosity spanning many fields, from art and music to how machines work. I'm visual, spacial, and abstract. In fact, I rebuilt my vintage BMW engine in my garage when I was in college. I bring this to all things. I take deep dives into Wikipedia, go down the wormholes and rabbit holes and read the fine print. I am interested in personalities and motives, and understand the value of building effective coalitions, since greater power comes from interdependence. I take pride in elegant ideas, even simple ones, inventions, solutions, even great failures.
 
 Skillset: scope of knowledge and experience 
 ------------
