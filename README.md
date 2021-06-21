@@ -11,7 +11,7 @@ Contact
 
 Philosophy
 ------------
-I focus on personal growth and well-being. I'm pro-diversity, feminist, and pro-LGBTQ+. As both a sailor and complex systems thinker. I have a childlike curiosity spanning many fields, from art and music to how machines work. I rebuilt my vintage BMW engine in my garage when I was in college. 
+I focus on personal growth and well-being. I'm pro-diversity, feminist, and pro-LGBTQ+. As both a sailor and complex systems thinker. I have a childlike curiosity spanning many fields, from art and music to how machines work. I'm DIY. I rebuilt my vintage BMW engine in my work shed.
 
 Skillset: scope of knowledge and experience 
 ------------
