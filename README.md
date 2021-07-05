@@ -11,7 +11,7 @@ Contact
 
 Philosophy
 ------------
-I focus on personal growth and well-being. I'm pro-diversity, feminist, and pro-LGBTQ+. As both a sailor and complex systems thinker. I have a childlike curiosity spanning many fields, from art and music to how machines work. I'm DIY. I rebuilt my vintage BMW engine in my work shed.
+I focus on personal growth and well-being. I'm pro-diversity, feminist, and pro-LGBTQ+. As both a sailor and complex systems thinker. I have a childlike curiosity spanning many fields, from art and music to how machines work. I'm DIY. In college I rebuilt my vintage BMW engine in my work shed, this pulled the curtain back on technology. 
 
 Skillset: scope of knowledge and experience 
 ------------
@@ -43,6 +43,7 @@ Etc
 
 Technical Accomplishments and Specialized Domain Projects
 ----------------
++ No-Code: I was an early (1997-2001) data analyst, visual programmer, and no-code programmer. I have experience in model-driven development, code generation, template-based application generation and build automation, and reverse engineering. 
 + Mobile Apps: Created an Android Sailboat racing app with speed-based audio feedback for a local bay area sailing team, accepted to Yachting Ventures. 
 + Interim CTO Fintech/regtech/crowdfunding: strategy, management, interviewing, investors, crowdfunding KYC, compliance, transaction analysis. | FundPaas
 + Virtual Assistant AI: Conversational Nuance-based Android smart voice digital assistant app for business, location, cloud timesheet and payroll integration | Interactive Partners
