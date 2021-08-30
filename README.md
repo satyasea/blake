@@ -93,7 +93,7 @@ Distributed computing and user experience, technical strategy, onboarding, knowl
 
 Paid blog articles for Telegraph Hill Software CTO Insights
 + https://telegraphhillsoftware.com/insights/
-+ https://telegraphhillsoftware.com/google-cloud-certification-ace/ (22 claps)
++ https://telegraphhillsoftware.com/google-cloud-certification-ace/ (986 reads, 22 claps)
 + https://telegraphhillsoftware.com/heroku-migration/ (research/ghostwriter)
 + https://telegraphhillsoftware.com/big-data-distributed-accountability/
 + https://telegraphhillsoftware.com/big-data-no-ticket/
@@ -111,8 +111,8 @@ Other technical Articles
 + https://wings.medium.com/how-to-10x-software-development-5177591b219d?sk=edddd49c6f713ec5f4c4b3c74a2aa37a
 + https://wings.medium.com/a-hybrid-model-for-diy-collaborative-customer-engagement-bc58bcb5b31e?sk=05831e5beb2bf76df06ff7966721e0c9
 + https://wings.medium.com/dont-overthink-it-e7087d8b3ac
-+ https://wings.medium.com/whiteboarding-algorithms-strategy-and-simplified-time-complexity-eab8ed0fa8f4 (12 claps)
-+ https://wings.medium.com/tweeting-in-the-stream-2b3ebf10d6e3 (50 claps)
++ https://wings.medium.com/whiteboarding-algorithms-strategy-and-simplified-time-complexity-eab8ed0fa8f4 (23 reads, 12 claps)
++ https://wings.medium.com/tweeting-in-the-stream-2b3ebf10d6e3 (339 reads, 50 claps)
 + https://wings.medium.com/vintage-ethereum-testnet-and-wallet-tests-31522e0d6ec4
 
 Education
