@@ -202,13 +202,14 @@ Online Profiles
 
 Personal ⛵
 ------------
-+ Sailor, PADI Divemaster, open-water swimmer, photographer
++ Sailor, Diver, open-water swimmer, photographer
 + Member YMCA, Commonwealth Club
 + Languages: English, conversational Spanish; previously some French and Nepali
-+ Int'l Travel: Mexico, central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
++ Int'l Travel: Mexico, Central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
 
 Sporting Accomplishments
 ------------
++ PADI Divemaster
 + Skippered two sailboats
 + Crewed on multiple sailboat passages, YRA and beer-can racing teams
 + Learned basic Hang-gliding
