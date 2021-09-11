@@ -207,8 +207,12 @@ Personal ⛵
 
 Recent books 
 ------------
++ Current: Cats Cradle (Vonnegut Jr), The Wasteland And other Poems (TS Eliot)
 + 7 habits of highly successful people
 + Growth Mindset Playbook
 + Millenium Trilogy, Larsson
 + Day of the Jackal, Forsyth
 + In Cold Blood, Capote
++ Mystic River, Lehane
++ Gone Baby Gone, Lehane
++ The Devil in the Wite City, Larson
