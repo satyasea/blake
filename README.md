@@ -9,9 +9,33 @@ Creative & entrepreneurial Principal Software Engineer, Software Architect, Lead
 Contact
 + saltyfog@gmail.com
 
-Philosophy
+Summary
 ------------
-I focus on personal growth and well-being. I'm pro-diversity, feminist, and pro-LGBTQ+. As both a sailor and complex systems thinker. I have a childlike curiosity spanning many fields, from art and music to how machines work. I'm DIY. In college I rebuilt my vintage BMW engine in my work shed, this pulled the curtain back on technology. 
+Interested in...
+Outside-the-box, unusual, and challenging positive global impact projects.
+
+“A connecting principle,
+Linked to the invisible
+Almost imperceptible
+Something inexpressible.
+Science insusceptible
+Logic so inflexible
+Causally connectable
+Nothing is invincible
+We know you, they know me
+Extrasensory
+Synchronicity”
+-The Police / Synchronicity
+
+Ideal Values...
+Practice: Autonomy and Interdependence.
+Industry: Well-being and longevity.
+
+Positions...
+Titles: Principal Eng, Manager, Director Eng, VP Eng, Interim CTO/CIO
+Roles: Consultant, Advisor, Operative, Designer, Writer, Inventor, Technologist, Tech Cofounder
+Functions and Tasks: Prototype, Test Design, Agile/Scrum Standups, Problem Solving, Performance, Refactoring, Work-arounds, Deal Flow / Aquisition Due Diligence, Digitial Transformation, Change Management, Software Factory Tooling and Design
+Domain Knowledge: Airline Systems, Prof Svcs, Banks/Brokerages, Crowdfunding and background checks, Healthcare and Medical, Voice Apps including Virtual Assistants and Conversational Bots
 
 Skillset: scope of knowledge and experience 
 ------------
