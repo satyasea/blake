@@ -11,7 +11,9 @@ Contact
 
 Summary
 ------------
+
 Interested in...
+------------
 Outside-the-box, unusual, and challenging positive global impact projects.
 
 “A connecting principle,
@@ -28,14 +30,16 @@ Synchronicity”
 -The Police / Synchronicity
 
 Ideal Values...
-Practice: Autonomy and Interdependence.
-Industry: Well-being and longevity.
+------------
++ Practice: Autonomy and Interdependence.
++ Industry: Well-being and longevity.
 
 Positions...
-Titles: Principal Eng, Manager, Director Eng, VP Eng, Interim CTO/CIO
-Roles: Consultant, Advisor, Operative, Designer, Writer, Inventor, Technologist, Tech Cofounder
-Functions and Tasks: Prototype, Test Design, Agile/Scrum Standups, Problem Solving, Performance, Refactoring, Work-arounds, Deal Flow / Aquisition Due Diligence, Digitial Transformation, Change Management, Software Factory Tooling and Design
-Domain Knowledge: Airline Systems, Prof Svcs, Banks/Brokerages, Crowdfunding and background checks, Healthcare and Medical, Voice Apps including Virtual Assistants and Conversational Bots
+------------
++ Titles: Principal Eng, Manager, Director Eng, VP Eng, Interim CTO/CIO
++ Roles: Consultant, Advisor, Operative, Designer, Writer, Inventor, Technologist, Tech Cofounder
++ Functions and Tasks: Prototype, Test Design, Agile/Scrum Standups, Problem Solving, Performance, Refactoring, Work-arounds, Deal Flow / Aquisition Due Diligence, Digital Transformation, Change Management, Software Factory Tooling and Design
++ Domain Knowledge: Airline Systems, Prof Svcs, Banks/Brokerages, Crowdfunding and background checks, Healthcare and Medical, Voice Apps including Virtual Assistants and Conversational Bots
 
 Skillset: scope of knowledge and experience 
 ------------
