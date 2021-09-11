@@ -26,7 +26,7 @@ Summary
 ------------
 Interested in...Outside-the-box, unusual, challenging, ethical and positive global impact companies, startups, and projects.
 
-Ideal Values...
+Values...
 ------------
 + Practice: Autonomy and Interdependence.
 + Industry: Well-being and longevity.
