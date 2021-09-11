@@ -9,13 +9,6 @@ Creative & entrepreneurial Principal Software Engineer, Software Architect, Lead
 Contact
 + saltyfog@gmail.com
 
-Summary
-------------
-
-Interested in...
-------------
-Outside-the-box, unusual, and challenging positive global impact projects.
-
 “A connecting principle,
 Linked to the invisible
 Almost imperceptible
@@ -28,6 +21,11 @@ We know you, they know me
 Extrasensory
 Synchronicity”
 -The Police / Synchronicity
+
+Summary
+------------
+
+Interested in...Outside-the-box, unusual, challenging, ethical and positive global impact companies, startups, and projects.
 
 Ideal Values...
 ------------
