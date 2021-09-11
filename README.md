@@ -25,9 +25,11 @@ Synchronicity”
 
 Summary
 ------------
-Interested in...Outside-the-box, unusual, challenging, ethical and positive global impact companies, startups, and projects.
++ Interested in...Outside-the-box, unusual, challenging, ethical and positive global impact companies, startups, and projects.
++ Completed recent professional certificates and specialization study programs from Google Cloud in GCP Cloud Engineering, Big Data, Data Engineering, AI/ML and Stanford Engineering in Data Science Foundations.
++ Primary coding language: Java
 
-Values...
+Values
 ------------
 + Practice: Autonomy and Interdependence.
 + Industry: Well-being and longevity.
