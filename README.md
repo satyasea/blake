@@ -1,6 +1,6 @@
 Technical Portfolio 
 
-Blake Rogers 
+Blake Rogers ⛵
 -----------
 + Principal Software Engineer 
 + Scalable Distributed Cloud Computing | GCP Data, M/L, Health, IaaS, PaaS | Java | SaaS | Android | Voice | AI | Fintech | KYC | Writer | Leader
