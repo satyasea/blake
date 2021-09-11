@@ -201,10 +201,17 @@ Online Profiles
 
 Personal ⛵
 ------------
-+ Sailor, PADI Divemaster, open-water swimmer, photographer, once studied hang-gliding
++ Sailor, PADI Divemaster, open-water swimmer, photographer
 + Member YMCA, Commonwealth Club
 + Languages: English, conversational Spanish; previously some French and Nepali
 + Int'l Travel: Mexico, central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
+
+Sporting Accomplishments
+------------
+Sporting Accomplishments...
+Skippered two sailboats
+Crewed on multiple sailboat passages, YRA and beer-can racing teams
+Learned basic Hang-gliding
 
 Recent books 
 ------------
@@ -217,3 +224,8 @@ Recent books
 + Mystic River, Lehane
 + Gone Baby Gone, Lehane
 + The Devil in the Wite City, Larson
+
+Bucketlist
+------------
+Hang-gliding, Scuba, Free-diving; Sailing the Mediteranean, Caribbean, Latin American coast; Travel Asia, Austrialia, New Zealand, Scandinavia, Middle East
+
