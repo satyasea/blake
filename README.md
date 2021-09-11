@@ -2,7 +2,7 @@ Technical Portfolio
 
 Blake Rogers 
 -----------
-Creative & entrepreneurial Principal Software Engineer, Software Architect, Leader, Writer
+Principal Software Engineer | Scalable Distributed Cloud Computing | GCP Data, M/L, Health, IaaS, PaaS | Java | SaaS | Android | Voice | AI | Fintech | KYC | Writer | Leader
 ------------
 + LinkedIn https://www.linkedin.com/in/blakerogerz/
 
