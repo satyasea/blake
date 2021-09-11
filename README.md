@@ -24,7 +24,6 @@ Synchronicity”
 
 Summary
 ------------
-
 Interested in...Outside-the-box, unusual, challenging, ethical and positive global impact companies, startups, and projects.
 
 Ideal Values...
@@ -32,7 +31,7 @@ Ideal Values...
 + Practice: Autonomy and Interdependence.
 + Industry: Well-being and longevity.
 
-Positions...
+Roles and Domains
 ------------
 + Titles: Principal Eng, Manager, Director Eng, VP Eng, Interim CTO/CIO
 + Roles: Consultant, Advisor, Operative, Designer, Writer, Inventor, Technologist, Tech Cofounder
