@@ -2,7 +2,8 @@ Technical Portfolio
 
 Blake Rogers 
 -----------
-Principal Software Engineer | Scalable Distributed Cloud Computing | GCP Data, M/L, Health, IaaS, PaaS | Java | SaaS | Android | Voice | AI | Fintech | KYC | Writer | Leader
++ Principal Software Engineer 
++ Scalable Distributed Cloud Computing | GCP Data, M/L, Health, IaaS, PaaS | Java | SaaS | Android | Voice | AI | Fintech | KYC | Writer | Leader
 ------------
 + LinkedIn https://www.linkedin.com/in/blakerogerz/
 
@@ -208,10 +209,9 @@ Personal ⛵
 
 Sporting Accomplishments
 ------------
-Sporting Accomplishments...
-Skippered two sailboats
-Crewed on multiple sailboat passages, YRA and beer-can racing teams
-Learned basic Hang-gliding
++ Skippered two sailboats
++ Crewed on multiple sailboat passages, YRA and beer-can racing teams
++ Learned basic Hang-gliding
 
 Recent books 
 ------------
