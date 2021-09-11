@@ -3,7 +3,7 @@ Technical Portfolio
 Blake Rogers ⛵
 -----------
 + Principal Software Engineer 
-+ Scalable Distributed Cloud Computing | GCP Data, M/L, Health, IaaS, PaaS | Java | SaaS | Android | Voice | AI | Fintech | KYC | Writer | Leader
++ I have 25 years software development experience in Silicon Valley. As senior software engineer and Interim CTO, I provide strategic technical leadership and hands-on development.
 ------------
 + LinkedIn https://www.linkedin.com/in/blakerogerz/
 
@@ -28,6 +28,7 @@ Summary
 + Interested in...Outside-the-box, unusual, challenging, ethical and positive global impact companies, startups, and projects.
 + Completed recent professional certificates and specialization study programs from Google Cloud in GCP Cloud Engineering, Big Data, Data Engineering, AI/ML and Stanford Engineering in Data Science Foundations.
 + Primary coding language: Java
++ Scalable Distributed Cloud Computing | GCP Data, M/L, Health, IaaS, PaaS | SaaS | Android | Voice | AI | Fintech | KYC | Writer | Leader
 
 Values
 ------------
