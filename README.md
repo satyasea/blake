@@ -34,7 +34,7 @@ Summary
 
 Roles and Domains
 ------------
-+ Titles: Principal Eng, Manager, Director Eng, VP Eng, Interim CTO/CIO
++ Titles: Principal Engineer, Principal Software Architect, Engineering Manager, Data Engineering Manager, Director of Engineering
 + Roles: Consultant, Advisor, Operative, Designer, Writer, Inventor, Technologist, Tech Cofounder
 + Functions and Tasks: Prototype, Test Design, Agile/Scrum Standups, Problem Solving, Performance, Refactoring, Work-arounds, Deal Flow / Aquisition Due Diligence, Digital Transformation, Change Management, Software Factory Tooling and Design
 + Domain Knowledge: Airline Systems, Banks/Brokerages, Crowdfunding and background checks, Healthcare and Medical, Voice Apps including Virtual Assistants and Conversational Bots
