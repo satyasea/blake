@@ -2,8 +2,8 @@ Technical Portfolio
 
 Blake Rogers ⛵
 -----------
-+ Principal Software Engineer 
-+ I have 25 years software development experience in Silicon Valley. As senior software engineer and Interim CTO, I provide strategic technical leadership and hands-on development.
++ Software Architect | Principal Software Engineer | Engineering Manager -> Scale | Performance | Onboard | Nearshore -> GCP ACE & Data Eng + Prof Certs from Coursera, Google Cloud, and Stanford Engineering
++ 25 years software development experience in Silicon Valley. 
 ------------
 + LinkedIn https://www.linkedin.com/in/blakerogerz/
 
@@ -25,22 +25,19 @@ Synchronicity”
 
 Summary
 ------------
-+ Interested in...Outside-the-box, unusual, challenging, ethical and positive global impact companies, startups, and projects.
-+ Completed recent professional certificates and specialization study programs from Google Cloud in GCP Cloud Engineering, Big Data, Data Engineering, AI/ML and Stanford Engineering in Data Science Foundations.
-+ Primary coding language: Java
-+ Scalable Distributed Cloud Computing | GCP Data, M/L, Health, IaaS, PaaS | SaaS | Android | Voice | AI | Fintech | KYC | Writer | Leader
+👀 Looking for unusual, high-concept, challenging, ethical global impact companies, startups, and projects.
 
-Values
-------------
-+ Practice: Autonomy and Interdependence.
-+ Industry: Well-being and longevity.
+⛑ Especially interested in solving longevity, global warming and quality of life problems.
+
+❄️ Tech interests include architectural identity modeling, open, decentralized, recursive, non-linear, folding, accordion, telescoping, biomimicry, complex systems, ethnobiology, genetic engineering, game theory, chat-bots, avatars, agents, motion, swarms, high-frequency, code generation, data, distributed parallel computing, streaming, accessibility and localization, sound, haptics, sensors, IOT, geo, motion, velocity, gestures, Radar, Lidar, AR. 
+
 
 Roles and Domains
 ------------
 + Titles: Principal Eng, Manager, Director Eng, VP Eng, Interim CTO/CIO
 + Roles: Consultant, Advisor, Operative, Designer, Writer, Inventor, Technologist, Tech Cofounder
 + Functions and Tasks: Prototype, Test Design, Agile/Scrum Standups, Problem Solving, Performance, Refactoring, Work-arounds, Deal Flow / Aquisition Due Diligence, Digital Transformation, Change Management, Software Factory Tooling and Design
-+ Domain Knowledge: Airline Systems, Prof Svcs, Banks/Brokerages, Crowdfunding and background checks, Healthcare and Medical, Voice Apps including Virtual Assistants and Conversational Bots
++ Domain Knowledge: Airline Systems, Banks/Brokerages, Crowdfunding and background checks, Healthcare and Medical, Voice Apps including Virtual Assistants and Conversational Bots
 
 Skillset: scope of knowledge and experience 
 ------------
@@ -203,19 +200,15 @@ Online Profiles
 + Hacker Rank https://www.hackerrank.com/saltyfog
 + Qwiklabs https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
 
-Personal ⛵
-------------
-+ Sailor, Diver, open-water swimmer, photographer
-+ Member YMCA, Commonwealth Club
-+ Languages: English, conversational Spanish; previously some French and Nepali
-+ Int'l Travel: Mexico, Central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
-
 Sporting Accomplishments
 ------------
-+ PADI Divemaster
-+ Skippered two sailboats
++ PADI scuba Divemaster
++ Sailor / skippered two sailboats
 + Crewed on multiple sailboat passages, YRA and beer-can racing teams
 + Learned basic Hang-gliding
++ Openwater swimmer and bodysurfer
++ YMCA member
++ Emergency First Responder
 
 Recent books 
 ------------
@@ -229,7 +222,13 @@ Recent books
 + Gone Baby Gone, Lehane
 + The Devil in the Wite City, Larson
 
+Personal ⛵
+------------
++ Photographer and Musician
++ Member YMCA, Commonwealth Club
++ Languages: English, conversational Spanish; previously some French and Nepali
++ Int'l Travel: Mexico, Central America, Caribbean, Italy, France, Nepal, Thailand, British Colombia
+
 Bucketlist
 ------------
 Hang-gliding, Scuba, Free-diving; Sailing the Mediteranean, Caribbean, Latin American coast; Travel Asia, Austrialia, New Zealand, Scandinavia, Middle East
-
