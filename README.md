@@ -4,10 +4,17 @@ Blake Rogers ⛵
 -----------
 + Software Architect | Principal Software Engineer | Engineering Manager -> Scale | Performance | Onboard | Nearshore -> GCP ACE & Data Eng + Prof Certs from Coursera, Google Cloud, and Stanford Engineering
 + 25 years software development experience in Silicon Valley. 
+
+Education
 ------------
-+ LinkedIn https://www.linkedin.com/in/blakerogerz/
++ Professional Certificate: Foundations For Data Science (Stanford University)
++ Professional Certificate: Data Engineering with Google Cloud ( Coursera)
++ Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
++ BA International Management, minor Nepali (World College West)
 
 Contact
+------------
++ LinkedIn https://www.linkedin.com/in/blakerogerz/
 + saltyfog@gmail.com
 
 “A connecting principle,
