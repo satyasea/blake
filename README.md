@@ -203,7 +203,6 @@ Online Profiles
 + Blog https://wings.medium.com/ 
 + Code Samples https://github.com/satyasea
 + Angel List https://angel.co/u/blake-rogers
-+ Startup Bidhacker http://bidhacker.com (requires signing online NDA)
 + Hacker Rank https://www.hackerrank.com/saltyfog
 + Qwiklabs https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
 
