@@ -110,7 +110,7 @@ Software Exhibits
 Recent creations
 + 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o
 + 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc
-+ 2020 Java 8 Advanced Programming Study Guide: https://docs.google.com/document/d/1umVktFYPSIOgCotcBAV0rhUkZ_wsKbu583_zePuP27s
++ 2020 Java 8 Advanced Study: https://docs.google.com/document/d/1umVktFYPSIOgCotcBAV0rhUkZ_wsKbu583_zePuP27s
 + 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
 + 2015 Research report slides - Online Journal https://docs.google.com/presentation/d/1636vAd5SmFATFJHcyAA4iWLjViK4NVfi8fTRuxsk1LQ
 + 2014 Smart Voice Assistant App architecture https://docs.google.com/drawings/d/1QvO6cmqsqf5tlmCoClD30SeFfXG9NyRqrv-rJ5RLCa0
