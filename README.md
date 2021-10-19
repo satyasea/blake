@@ -110,6 +110,7 @@ Software Exhibits
 Recent creations
 + 2020 Habit management app architecture https://docs.google.com/drawings/d/1xJtV_kuBpuuhReRtr5p048X6BiK8dfe8gJGArIGjj8o
 + 2020 Python Programming Cheat Sheet https://docs.google.com/document/d/1ZZbb7xvwLzIYnTUp1Ys6QYrH0-GEppZgBnit99HR-Cc
++ 2020 Java 8 Advanced Programming Study Guide: https://docs.google.com/document/d/1umVktFYPSIOgCotcBAV0rhUkZ_wsKbu583_zePuP27s
 + 2019 GCP ACE Study Guide & mental models: https://docs.google.com/document/d/1if7Bbzrui1r-RaPO8ikwvcyg7Cv9sIFFZuE_fZP-9xE
 + 2015 Research report slides - Online Journal https://docs.google.com/presentation/d/1636vAd5SmFATFJHcyAA4iWLjViK4NVfi8fTRuxsk1LQ
 + 2014 Smart Voice Assistant App architecture https://docs.google.com/drawings/d/1QvO6cmqsqf5tlmCoClD30SeFfXG9NyRqrv-rJ5RLCa0
@@ -164,7 +165,8 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/UNS7
 + Data Engineering, Big Data, and Machine Learning on GCP (Coursera 5-course Specialization) Jan 2020
 https://coursera.org/share/62dac15e2ae582452c49d29d31c9a004
 
-Computer Science and Technology Courses
+Program of Continuing Education / Course Listing
++ Kaufman Fellows / Techstars - Venture Deals
 + Stanford - Foundations for Data Science - Statistics
 + Stanford - Foundations for Data Science - R Programming 
 + Stanford - Foundations for Data Science - Introduction to Python 
