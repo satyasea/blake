@@ -2,7 +2,7 @@ Technical Portfolio
 
 Blake Rogers ⛵
 -----------
-+ Software Architect | Principal Software Engineer | Engineering Manager -> Scale | Performance | Onboard | Nearshore -> GCP ACE & Data Eng + Prof Certs from Coursera, Google Cloud, and Stanford Engineering
++ Principal Software Engineer | Software Architect | Engineering Leader | Writer | Interim CTO - GCP ACE & Data Eng + Professional Certificates from Coursera, Google Cloud,and Stanford
 + 25 years software development experience in Silicon Valley. 
 
 Education
