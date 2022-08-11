@@ -126,13 +126,13 @@ Writing
 Distributed computing and user experience, technical strategy, onboarding, knowledge transfer, scaling offshore teams, IP assessment, patent, disaster response, web server administration, OLAP data warehouse administration. 
 
 Paid blog articles for Telegraph Hill Software CTO Insights
-+ https://telegraphhillsoftware.com/insights/
+https://medium.com/telegraph-hill-software
 + https://wings.medium.com/how-to-ace-the-google-cloud-platform-associate-cloud-engineer-exam-5a39e12f091f?source=friends_link&sk=1d67927b88c967d3c5bc9058cbfa766c (986 reads, 22 claps)
-+ https://telegraphhillsoftware.com/heroku-migration/ (research/ghostwriter)
-+ https://telegraphhillsoftware.com/big-data-distributed-accountability/
-+ https://telegraphhillsoftware.com/big-data-no-ticket/
-+ https://telegraphhillsoftware.com/ten-key-terms-in-distributed-computing/
-+ https://telegraphhillsoftware.com/starting-the-spark/
++ Where to for Heroku (Ghostwriter) / 
++ https://medium.com/telegraph-hill-software/big-data-distributed-accountability-33641fced4a7?source=friends_link&sk=1c7071e1add636aa7b4bd4c6b2f6f735
++ https://medium.com/telegraph-hill-software/big-data-no-ticket-9c92f982acec?source=friends_link&sk=43f8695d96bcf4289caa8182507cbfd3
++ https://medium.com/telegraph-hill-software/ten-key-terms-in-distributed-computing-5e7eab6db5e0?source=friends_link&sk=2514ff2e966f6e2e34eef2b8aba05291
++ https://wings.medium.com/starting-the-spark-4ccc7e82ca93?source=friends_link&sk=0fee8efd2f5ee1b838583162f6aaa01d
 
 Articles on LinkedIn Pulse
 + https://www.linkedin.com/pulse/virtual-assistant-avatar-ai-simplified-blake-rogers
