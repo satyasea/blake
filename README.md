@@ -127,7 +127,7 @@ Distributed computing and user experience, technical strategy, onboarding, knowl
 
 Paid blog articles for Telegraph Hill Software CTO Insights
 + https://telegraphhillsoftware.com/insights/
-+ https://telegraphhillsoftware.com/google-cloud-certification-ace/ (986 reads, 22 claps)
++ https://wings.medium.com/how-to-ace-the-google-cloud-platform-associate-cloud-engineer-exam-5a39e12f091f?source=friends_link&sk=1d67927b88c967d3c5bc9058cbfa766c (986 reads, 22 claps)
 + https://telegraphhillsoftware.com/heroku-migration/ (research/ghostwriter)
 + https://telegraphhillsoftware.com/big-data-distributed-accountability/
 + https://telegraphhillsoftware.com/big-data-no-ticket/
