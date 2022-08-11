@@ -1,16 +1,17 @@
 Technical Portfolio 
+--------------
 
 Blake Rogers ⛵
 -----------
 + Principal Software Engineer | Software Architect | Engineering Leader | Writer | Interim CTO - GCP ACE & Data Eng + Professional Certificates from Coursera, Google Cloud,and Stanford
 + 25 years software development experience in Silicon Valley. 
 
-Education
+Summary
 ------------
-+ Professional Certificate: Foundations For Data Science (Stanford University)
-+ Professional Certificate: Data Engineering with Google Cloud ( Coursera)
-+ Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
-+ BA International Management, minor Nepali (World College West)
+👀 Looking for unusual, high-concept, challenging, ethical global impact companies, startups, and projects.
+
+⛑ Especially interested in solving longevity, global warming and quality of life problems.
+
 
 Contact 
 ------------
@@ -23,26 +24,12 @@ URLS
 + Blog https://wings.medium.com/ 
 + About Me https://about.me/blakerogers
 
-“A connecting principle,
-Linked to the invisible
-Almost imperceptible
-Something inexpressible.
-Science insusceptible
-Logic so inflexible
-Causally connectable
-Nothing is invincible
-We know you, they know me
-Extrasensory
-Synchronicity”
--The Police / Synchronicity
-
-Summary
+Education
 ------------
-👀 Looking for unusual, high-concept, challenging, ethical global impact companies, startups, and projects.
-
-⛑ Especially interested in solving longevity, global warming and quality of life problems.
-
-❄️ Tech interests include architectural identity modeling, open, decentralized, recursive, non-linear, folding, accordion, telescoping, biomimicry, complex systems, ethnobiology, genetic engineering, game theory, chat-bots, avatars, agents, motion, swarms, high-frequency, code generation, data, distributed parallel computing, streaming, accessibility and localization, sound, haptics, sensors, IOT, geo, motion, velocity, gestures, Radar, Lidar, AR. 
++ Professional Certificate: Foundations For Data Science (Stanford University)
++ Professional Certificate: Data Engineering with Google Cloud ( Coursera)
++ Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
++ BA International Management, minor Nepali (World College West)
 
 
 Roles and Domains
