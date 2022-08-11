@@ -12,13 +12,16 @@ Education
 + Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
 + BA International Management, minor Nepali (World College West)
 
-Contact
+Contact 
 ------------
-+ LinkedIn https://www.linkedin.com/in/blakerogerz/
 + Email saltyfog@gmail.com
-+ About Me https://about.me/blakerogers
-+ Github github.com/satyasea
++ LinkedIn https://www.linkedin.com/in/blakerogerz/
+
+URLS
+------------
++ Github https://github.com/satyasea/
 + Blog https://wings.medium.com/ 
++ About Me https://about.me/blakerogers
 
 “A connecting principle,
 Linked to the invisible
