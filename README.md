@@ -143,15 +143,11 @@ Other technical Articles
 + https://wings.medium.com/tweeting-in-the-stream-2b3ebf10d6e3 (339 reads, 50 claps)
 + https://wings.medium.com/vintage-ethereum-testnet-and-wallet-tests-31522e0d6ec4
 
-Education
-------------
-+ Professional Certificate: Foundations For Data Science (Stanford University)
-+ Professional Certificate: Data Engineering with Google Cloud ( Coursera)
-+ Specialization: Data Engineering, Big Data, and Machine Learning on GCP (Coursera)
-+ BA International Management, minor Nepali (World College West)
 
-Computer Science Education: Cloud, Data Engineering, Big Data, Machine Learning, AI, Complex Systems, Google Cloud Platform
+Computer Science Education
 -------------------------------------------
+Cloud, Data Engineering, Big Data, Machine Learning, AI, Complex Systems, Google Cloud Platform
+ 
 Certificate programs and specializations
 + Foundations for Data Science (Stanford 3-course professional certificate) Jan 2021
 + Data Engineering with Google Cloud (Coursera 6-Course Professional Certificate) Jan 2020
@@ -159,7 +155,7 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/UNS7
 + Data Engineering, Big Data, and Machine Learning on GCP (Coursera 5-course Specialization) Jan 2020
 https://coursera.org/share/62dac15e2ae582452c49d29d31c9a004
 
-Program of Continuing Education / Course Listing
+Continuing Technology Education Courses 
 + Kaufman Fellows / Techstars - Venture Deals
 + Stanford - Foundations for Data Science - Statistics
 + Stanford - Foundations for Data Science - R Programming 
