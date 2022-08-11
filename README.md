@@ -15,7 +15,10 @@ Education
 Contact
 ------------
 + LinkedIn https://www.linkedin.com/in/blakerogerz/
-+ saltyfog@gmail.com
++ Email saltyfog@gmail.com
++ About Me https://about.me/blakerogers
++ Github github.com/satyasea
++ Blog https://wings.medium.com/ 
 
 “A connecting principle,
 Linked to the invisible
