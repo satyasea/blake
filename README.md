@@ -119,10 +119,10 @@ Writing
 --------
 Distributed computing and user experience, technical strategy, onboarding, knowledge transfer, scaling offshore teams, IP assessment, patent, disaster response, web server administration, OLAP data warehouse administration. 
 
-Paid blog articles for Telegraph Hill Software CTO Insights
+Paid blog articles for Telegraph Hill Software CTO Insights on Medium
 https://medium.com/telegraph-hill-software
 + https://wings.medium.com/how-to-ace-the-google-cloud-platform-associate-cloud-engineer-exam-5a39e12f091f?source=friends_link&sk=1d67927b88c967d3c5bc9058cbfa766c (986 reads, 22 claps)
-+ Where to for Heroku (Ghostwriter) / 
++ Where to for Heroku (Ghostwriter) / Telegraph Hill Software 
 + https://medium.com/telegraph-hill-software/big-data-distributed-accountability-33641fced4a7?source=friends_link&sk=1c7071e1add636aa7b4bd4c6b2f6f735
 + https://medium.com/telegraph-hill-software/big-data-no-ticket-9c92f982acec?source=friends_link&sk=43f8695d96bcf4289caa8182507cbfd3
 + https://medium.com/telegraph-hill-software/ten-key-terms-in-distributed-computing-5e7eab6db5e0?source=friends_link&sk=2514ff2e966f6e2e34eef2b8aba05291
@@ -130,15 +130,11 @@ https://medium.com/telegraph-hill-software
 
 Articles on LinkedIn Pulse
 + https://www.linkedin.com/pulse/virtual-assistant-avatar-ai-simplified-blake-rogers
-+ https://www.linkedin.com/pulse/onboarding-101-managing-complexity-team-building-blake-rogers/
 + https://www.linkedin.com/pulse/reduce-reuse-recycle-managing-complexity-agile-world-blake-rogers/
 + https://www.linkedin.com/pulse/collaborating-new-machines-blake-rogers/
-+ https://www.linkedin.com/pulse/maxwells-demon-engine-transactional-facilitation-blake-rogers/
 
-Other technical Articles
-+ https://wings.medium.com/how-to-10x-software-development-5177591b219d?sk=edddd49c6f713ec5f4c4b3c74a2aa37a
+Other technical Articles on Medium
 + https://wings.medium.com/a-hybrid-model-for-diy-collaborative-customer-engagement-bc58bcb5b31e?sk=05831e5beb2bf76df06ff7966721e0c9
-+ https://wings.medium.com/dont-overthink-it-e7087d8b3ac
 + https://wings.medium.com/whiteboarding-algorithms-strategy-and-simplified-time-complexity-eab8ed0fa8f4 (23 reads, 12 claps)
 + https://wings.medium.com/tweeting-in-the-stream-2b3ebf10d6e3 (339 reads, 50 claps)
 + https://wings.medium.com/vintage-ethereum-testnet-and-wallet-tests-31522e0d6ec4
