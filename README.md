@@ -188,8 +188,6 @@ Google Cloud Platform 6 Lab Quests / 44 Labs
 
 Online Profiles
 -------------------------
-+ Blog https://wings.medium.com/ 
-+ Code Samples https://github.com/satyasea
 + Angel List https://angel.co/u/blake-rogers
 + Hacker Rank https://www.hackerrank.com/saltyfog
 + Qwiklabs https://www.qwiklabs.com/public_profiles/7b71d961-5a35-42b4-8042-33dc249794d6
@@ -214,7 +212,7 @@ Recent books
 + In Cold Blood, Capote
 + Mystic River, Lehane
 + Gone Baby Gone, Lehane
-+ The Devil in the Wite City, Larson
++ The Devil in the White City, Larson
 
 Personal ⛵
 ------------
